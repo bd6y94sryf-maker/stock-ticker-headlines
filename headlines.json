@@ -1,12 +1,11 @@
 {
   "date": "August 31, 2026",
   "headlines": [
-    "Dow futures slide as US strikes Iranian rocket launchers near the Strait of Hormuz, reigniting the Mideast conflict.",
-    "Brent crude tops $90 a barrel after US-Iran clashes near Larak Island, with Iran's key Kharg Island export terminal reportedly targeted.",
-    "Fed Chair Kevin Warsh's hawkish Jackson Hole remarks fuel bets on a rate hike as markets all but rule out a September cut.",
-    "Treasury yields and short-term borrowing costs jump globally as the oil shock and hawkish Fed stoke fresh inflation fears.",
-    "Dollar holds its gains as hawkish Fed commentary and escalating Mideast tensions drive investors into havens.",
-    "Wall Street closes a winning week despite Friday's Warsh-driven selloff, with the S&P 500 off 0.3% heading into today.",
-    "Earnings scorecard: Gap jumps 13% on new Old Navy CEO, while Marvell tumbles 10% and HP slides on soft guidance."
+    {"text": "US strikes on Iranian rocket launchers near the Strait of Hormuz send oil surging and stocks lower to start the week.", "url": "https://www.washingtontimes.com/news/2026/aug/31/oil-prices-increase-stocks-fall-us-hits-iranian-sites-strait-hormuz/"},
+    {"text": "National gas prices topped $4 a gallon every day of August for the first time ever as fresh US-Iran strikes push oil higher.", "url": "https://fortune.com/2026/08/31/gas-prices-oil-us-iran-strikes-strait-hormuz/"},
+    {"text": "Fed Chair Kevin Warsh's hawkish Jackson Hole remarks push December rate-hike odds above 70% despite cooler PCE and CPI readings.", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-31-082900315.html"},
+    {"text": "S&P 500 and Dow close lower Monday on the oil shock, though the S&P still notches a 2.6% gain for August.", "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html"},
+    {"text": "10-year Treasury yield climbs to its highest level since January 2025 as the oil spike and hawkish Fed talk stoke inflation fears.", "url": "https://vistapglobal.com/daily-market-summary-aug-31-2026-stocks-retreat-as-oil-spike-and-rate-fears-pressure-risk-assets-cvx-lpl-modd-mu-nvda-smwb-soc-tsla-ulta-vix/"},
+    {"text": "Earnings scorecard: Gap jumps on a new Old Navy CEO and raised guidance, while Marvell slides on weak margin guidance despite beating estimates.", "url": "https://seekingalpha.com/news/4637776-biggest-stock-movers-friday-pypl-mrvl-and-more"}
   ]
 }
