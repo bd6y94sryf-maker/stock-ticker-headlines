@@ -1,11 +1,11 @@
 {
-  "date": "August 31, 2026",
+  "date": "September 1, 2026",
   "headlines": [
-    {"text": "US strikes on Iranian rocket launchers near the Strait of Hormuz send oil surging and stocks lower to start the week.", "url": "https://www.washingtontimes.com/news/2026/aug/31/oil-prices-increase-stocks-fall-us-hits-iranian-sites-strait-hormuz/"},
-    {"text": "National gas prices topped $4 a gallon every day of August for the first time ever as fresh US-Iran strikes push oil higher.", "url": "https://fortune.com/2026/08/31/gas-prices-oil-us-iran-strikes-strait-hormuz/"},
-    {"text": "Fed Chair Kevin Warsh's hawkish Jackson Hole remarks push December rate-hike odds above 70% despite cooler PCE and CPI readings.", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-31-082900315.html"},
-    {"text": "S&P 500 and Dow close lower Monday on the oil shock, though the S&P still notches a 2.6% gain for August.", "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html"},
-    {"text": "10-year Treasury yield climbs to its highest level since January 2025 as the oil spike and hawkish Fed talk stoke inflation fears.", "url": "https://vistapglobal.com/daily-market-summary-aug-31-2026-stocks-retreat-as-oil-spike-and-rate-fears-pressure-risk-assets-cvx-lpl-modd-mu-nvda-smwb-soc-tsla-ulta-vix/"},
-    {"text": "Earnings scorecard: Gap jumps on a new Old Navy CEO and raised guidance, while Marvell slides on weak margin guidance despite beating estimates.", "url": "https://seekingalpha.com/news/4637776-biggest-stock-movers-friday-pypl-mrvl-and-more"}
+    {"text": "Dow futures slide after Iranian projectiles hit a Saudi and a South Korean tanker in the Strait of Hormuz overnight.", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-1-2026"},
+    {"text": "Fed rate-hike odds for September climb to 57.5% as the 10-year Treasury yield hits its highest level since January 2025.", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"},
+    {"text": "Wall Street closed lower Monday as the Dow fell 0.7%, the S&P 500 slipped 0.3%, and tech and utilities led the retreat.", "url": "https://ca.finance.yahoo.com/news/stock-market-news-sep-1-085900862.html"},
+    {"text": "JOLTS job openings and the ISM Manufacturing PMI land today, with factory activity seen cooling to 55.2% from July's 55.6%.", "url": "https://www.fxstreet.com/news/ism-manufacturing-pmi-set-to-signal-steady-expansion-in-us-factory-activity-202609010900"},
+    {"text": "McKesson agrees to acquire Precision Medicine Group for $2.25 billion to bulk up its oncology and clinical-research business.", "url": "https://finance.yahoo.com/healthcare/articles/mckesson-acquire-precision-medicine-group-152200745.html"},
+    {"text": "Crude oil holds near multi-month highs as the Hormuz tanker squeeze keeps a geopolitical risk premium baked into prices.", "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html"}
   ]
 }
