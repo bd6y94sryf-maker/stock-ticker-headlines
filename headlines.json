@@ -1,11 +1,11 @@
 {
-  "date": "September 1, 2026",
+  "date": "September 2, 2026",
   "headlines": [
-    {"text": "Dow futures slide after Iranian projectiles hit a Saudi and a South Korean tanker in the Strait of Hormuz overnight.", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-1-2026"},
-    {"text": "Fed rate-hike odds for September climb to 57.5% as the 10-year Treasury yield hits its highest level since January 2025.", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"},
-    {"text": "Wall Street closed lower Monday as the Dow fell 0.7%, the S&P 500 slipped 0.3%, and tech and utilities led the retreat.", "url": "https://ca.finance.yahoo.com/news/stock-market-news-sep-1-085900862.html"},
-    {"text": "JOLTS job openings and the ISM Manufacturing PMI land today, with factory activity seen cooling to 55.2% from July's 55.6%.", "url": "https://www.fxstreet.com/news/ism-manufacturing-pmi-set-to-signal-steady-expansion-in-us-factory-activity-202609010900"},
-    {"text": "McKesson agrees to acquire Precision Medicine Group for $2.25 billion to bulk up its oncology and clinical-research business.", "url": "https://finance.yahoo.com/healthcare/articles/mckesson-acquire-precision-medicine-group-152200745.html"},
-    {"text": "Crude oil holds near multi-month highs as the Hormuz tanker squeeze keeps a geopolitical risk premium baked into prices.", "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html"}
+    {"text": "Dow, S&P 500, and Nasdaq futures fall as the US-Iran war escalates and inflation jitters return.", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"},
+    {"text": "Oil surges past $95 a barrel as the US downplays Iran diplomacy and a second key trade route is disrupted.", "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671"},
+    {"text": "Fed Chair Kevin Warsh's hawkish Jackson Hole speech pushes September rate-hike odds above 50%.", "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html"},
+    {"text": "Wall Street closed lower Tuesday to open September, with the S&P 500 down 0.71% and the Nasdaq off 1.03%.", "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html"},
+    {"text": "ADP's August jobs report, the Fed's Beige Book, and the ISM Manufacturing PMI all land Wednesday as investors gauge the economy.", "url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-oil-inventories-and-fed-beige-book-due-wednesday-93CH-4884464"},
+    {"text": "Broadcom and Snowflake report earnings after the close, with AVGO revenue seen surging 84% on AI-chip demand.", "url": "https://finance.yahoo.com/markets/stocks/articles/broadcoms-next-earnings-report-september-220501648.html"}
   ]
 }
