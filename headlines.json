@@ -1,11 +1,11 @@
 {
-  "date": "September 3, 2026",
+  "date": "September 4, 2026",
   "headlines": [
-    {"text": "J.P. Morgan now expects a 25bps Fed rate hike at the September 15-16 meeting as Iran-driven energy shocks lower the bar for tightening.", "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks"},
-    {"text": "Oil surges above $95 a barrel as renewed US-Iran fighting stokes fresh fears of a Strait of Hormuz disruption.", "url": "https://www.thenationalnews.com/business/energy/2026/09/02/oil-surges-above-95-on-renewed-us-iran-fighting-and-hormuz-disruption-concerns/"},
-    {"text": "10-year Treasury yield hits 4.82%, its highest since November 2023, as a global bond selloff intensifies on energy prices and debt worries.", "url": "https://www.foxbusiness.com/economy/treasury-yields-hover-near-multi-year-highs-energy-prices-government-debt-fuel-bond-sell-off"},
-    {"text": "Snowflake shares surge more than 20% premarket after Q2 results and raised AI-driven revenue guidance blow past Wall Street estimates.", "url": "https://www.investing.com/news/stock-market-news/snowflake-shares-surge-as-ai-demand-powers-growth-lifts-outlook-4887223"},
-    {"text": "Broadcom shares slide despite a beat-and-raise quarter, as investors balk at Q4 revenue guidance of $34.8 billion.", "url": "https://finance.yahoo.com/markets/article/broadcom-stock-slips-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html"},
-    {"text": "Traders brace for today's ISM Services PMI and Friday's nonfarm payrolls, seen rebounding to roughly +50K after July's shock decline.", "url": "https://www.fxstreet.com/news/ism-services-pmi-preview-us-service-sector-expected-to-expand-in-august-202609030900"}
+    {"text": "US stock futures inch higher as traders await today's critical August jobs report, the last major data point before the Fed's September 16 rate decision.", "url": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040"},
+    {"text": "Dow surges 624 points to its best day in a month after Fed Governor Christopher Waller signals he'd support holding rates steady this month.", "url": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-635-points-fed-170855232.html"},
+    {"text": "September rate-hike odds tumble to roughly 50-50 from over 60% after Waller's remarks, even as Bitcoin tops $80,000.", "url": "https://www.benzinga.com/markets/market-summary/26/09/61611969/waller-cools-rate-hike-bets-bitcoin-tops-80000-whats-moving-markets-thursday"},
+    {"text": "Hewlett Packard Enterprise shares slide 5% despite a blowout Q3 earnings beat and raised FY26 guidance, as the CEO warns of tight memory-chip supply through 2028.", "url": "https://www.benzinga.com/markets/earnings/26/09/61590348/hewlett-packard-enterprise-shares-slide-lower-despite-strong-q3-raised-guidance"},
+    {"text": "Oil holds near $95 a barrel, up about 8% for the week, as the collapsed Iran deal keeps the Strait of Hormuz disrupted.", "url": "https://oilprice.com/Energy/Energy-General/Oil-Bulls-Take-Control-as-Iran-Deal-Collapses-and-Hormuz-Stays-Restricted.html"},
+    {"text": "Economists forecast August payrolls rebounded to around 53,000-56,000 jobs, a pivotal reading for the Fed's September 16 FOMC decision.", "url": "https://www.benzinga.com/markets/economic-data/26/09/61615137/august-jobs-report-preview-fed-rate-hike-september-2026"}
   ]
 }
