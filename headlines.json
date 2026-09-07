@@ -1,11 +1,12 @@
 {
-  "date": "September 4, 2026",
+  "date": "September 7, 2026",
   "headlines": [
-    {"text": "US stock futures inch higher as traders await today's critical August jobs report, the last major data point before the Fed's September 16 rate decision.", "url": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040"},
-    {"text": "Dow surges 624 points to its best day in a month after Fed Governor Christopher Waller signals he'd support holding rates steady this month.", "url": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-635-points-fed-170855232.html"},
-    {"text": "September rate-hike odds tumble to roughly 50-50 from over 60% after Waller's remarks, even as Bitcoin tops $80,000.", "url": "https://www.benzinga.com/markets/market-summary/26/09/61611969/waller-cools-rate-hike-bets-bitcoin-tops-80000-whats-moving-markets-thursday"},
-    {"text": "Hewlett Packard Enterprise shares slide 5% despite a blowout Q3 earnings beat and raised FY26 guidance, as the CEO warns of tight memory-chip supply through 2028.", "url": "https://www.benzinga.com/markets/earnings/26/09/61590348/hewlett-packard-enterprise-shares-slide-lower-despite-strong-q3-raised-guidance"},
-    {"text": "Oil holds near $95 a barrel, up about 8% for the week, as the collapsed Iran deal keeps the Strait of Hormuz disrupted.", "url": "https://oilprice.com/Energy/Energy-General/Oil-Bulls-Take-Control-as-Iran-Deal-Collapses-and-Hormuz-Stays-Restricted.html"},
-    {"text": "Economists forecast August payrolls rebounded to around 53,000-56,000 jobs, a pivotal reading for the Fed's September 16 FOMC decision.", "url": "https://www.benzinga.com/markets/economic-data/26/09/61615137/august-jobs-report-preview-fed-rate-hike-september-2026"}
+    {"text": "Asian stocks rocket higher as Japan's Nikkei tops 66,300 and South Korea's Kospi surges past 6,900, riding an AI-chip rally that spilled over from Friday's blowout U.S. jobs report.", "url": "https://www.tradingkey.com/analysis/stocks/more/262153086-japan-south-korea-stocks-kospi-nikkei225-softbank-skhynix-samsung-kioxia-nvda-tradingkey"},
+    {"text": "U.S. payrolls smashed forecasts in August, adding 162,000 jobs as unemployment held at 4.1%, pushing Fed rate-hike odds for the Sept. 15-16 meeting to roughly 60%.", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262151468-nonfarm-payrolls-market-expectation-revision-rate-hike-odds-tradingkey"},
+    {"text": "Trump, Vance and Bessent mount an unusually public campaign urging the Fed to cut rates, but Chair Kevin Warsh is signaling he may back a hike instead to keep fighting inflation.", "url": "https://finance.yahoo.com/economy/policy/articles/trump-wants-rate-cuts-fast-162158927.html"},
+    {"text": "All eyes turn to Friday's August CPI report, which Fed Governor Christopher Waller says will be \"heavily influential\" in deciding whether the Fed hikes or holds on Sept. 16.", "url": "https://www.bloomberg.com/news/articles/2026-09-03/fed-s-waller-says-september-rate-decision-hinges-on-august-cpi"},
+    {"text": "Lululemon shares sank as much as 18% to an eight-year low after the retailer slashed its full-year guidance for the third time in 2026, citing a sharp slowdown in leggings sales.", "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-shares-fall-17-fy2026-094142265.html"},
+    {"text": "Brent crude surged past $95 a barrel, up more than 8% on the week, after Iran and the U.S. traded attacks on oil tankers near the Strait of Hormuz.", "url": "https://gulfnews.com/business/energy/oil-prices-rocket-as-war-shuts-hormuz-strait-1.500476969"},
+    {"text": "U.S. stock markets are closed Monday for Labor Day, leaving Wall Street to digest the weekend's Hormuz tanker attacks and jobs-data fallout ahead of Tuesday's reopen.", "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html"}
   ]
 }
