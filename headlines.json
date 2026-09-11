@@ -1,11 +1,12 @@
 {
-  "date": "September 9, 2026",
+  "date": "September 11, 2026",
   "headlines": [
-    {"text": "Oil crosses $100 a barrel for the first time in months as the U.S. destroys five Iranian tankers and a Tehran-backed group torches Saudi oil facilities.", "url": "https://www.forbes.com/sites/siladityaray/2026/09/09/oil-prices-cross-100-as-iran-war-escalates-amid-renewed-strikes-on-tankers/"},
-    {"text": "Dow, S&P 500 and Nasdaq futures hold roughly steady Wednesday as traders weigh the oil spike against a still-uncertain Fed rate path.", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html"},
-    {"text": "The 10-year Treasury yield tops 4.81%, its highest since November 2023, as surging oil prices reignite inflation anxiety.", "url": "https://qz.com/us-treasury-yield-highest-2023-stock-futures-oil-090226"},
-    {"text": "Fed Governor Waller says he'd lean toward holding rates steady on Sept. 16, but a hot August CPI print due Friday could tip him toward a hike.", "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"},
-    {"text": "Amgen sinks 9% and Novartis drops 14% after Novartis' pelacarsen failed a pivotal cardiovascular trial, clouding the whole Lp(a)-lowering drug class.", "url": "https://247wallst.com/investing/2026/09/08/amgen-falls-10-as-novartis-trial-failure-clouds-a-cholesterol-drug-class-nvs-stock-drops-14/"},
-    {"text": "Oracle's fiscal Q1 report Thursday looms as a make-or-break test for the AI trade, with options pricing in an 11% stock swing.", "url": "https://finance.yahoo.com/markets/stocks/articles/oracles-next-earnings-report-could-183334437.html"}
+    {"text": "10-year Treasury yield climbs toward 5%, its highest since 2023, as a global bond selloff accelerates ahead of today's CPI report.", "url": "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5"},
+    {"text": "Dow, S&P 500 and Nasdaq head for a fourth straight losing day and a weekly decline as traders brace for the last big inflation read before the Fed meets.", "url": "https://ca.finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"},
+    {"text": "Oil tops $105 a barrel after Houthi rebels seize a key Red Sea port, tightening the squeeze on global shipping chokepoints.", "url": "https://www.thenationalnews.com/business/energy/2026/09/10/oil-prices-hit-105-per-barrel-as-houthis-seize-key-red-sea-port/"},
+    {"text": "Traders lift odds of a Fed rate hike next week to 71% after a hotter-than-expected PPI print, even as Friday's CPI looms as the tiebreaker.", "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html"},
+    {"text": "Trump administration escalates pressure on Fed Chair Kevin Warsh to cut rates just days before the September 16 FOMC decision.", "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"},
+    {"text": "Fed Chair Warsh and colleagues have likely already made up their minds on a hike heading into the Sept. 16 meeting, regardless of today's CPI.", "url": "https://www.fool.com/investing/2026/09/11/forget-inflation-report-fed-chair-kevin-warsh-colleagues-made-up-mind-for-sept-16-fomc-meeting/"},
+    {"text": "Kroger reports fiscal Q2 earnings before the bell, an early test for new CEO Greg Foran's turnaround push against Walmart and Costco.", "url": "https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html"}
   ]
 }
