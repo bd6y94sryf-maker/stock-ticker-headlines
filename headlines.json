@@ -1,11 +1,11 @@
 {
-  "date": "September 14, 2026",
+  "date": "September 15, 2026",
   "headlines": [
-    {"text": "Nasdaq futures slide as surging oil prices and a fresh AI-stock slump rattle traders ahead of the Fed's meeting.", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-14-2026"},
-    {"text": "Oil jumps over 2% on fears the Gulf war is escalating after Saudi Arabia shuts a key pipeline and talks with Iran collapse.", "url": "https://www.semafor.com/article/09/14/2026/oil-prices-rise-on-fears-gulf-war-is-escalating"},
-    {"text": "Chip stocks slump again after Anthropic's warning on AI development spooks the semiconductor trade.", "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact"},
-    {"text": "Odds of a Fed rate hike at Wednesday's FOMC decision surge past 85% as traders brace for a volatile week.", "url": "https://www.fool.com/investing/2026/09/10/the-odds-of-a-rate-hike-are-soaring-ahead-of-the-sept-16-fomc-meeting/"},
-    {"text": "August inflation holds at 3.4% year-over-year, bolstering bets that the Fed will hike rates this week.", "url": "https://www.benzinga.com/markets/economic-data/26/09/61736703/august-inflation-report-2026"},
-    {"text": "Wall Street braces for a make-or-break week as the FOMC decision, Empire State manufacturing data, and import prices all land.", "url": "https://www.cnbc.com/2026/09/11/stock-market-next-week-outlook-for-sept-14-18-2026.html"}
+    {"text": "10-year Treasury yield briefly tops 5% for the first time since 2023 as inflation and heavy debt supply spook bond markets.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount"},
+    {"text": "Fed odds for a quarter-point hike at Wednesday's FOMC decision climb to roughly 92% as energy-driven inflation builds.", "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html"},
+    {"text": "Chip stocks extend their slide as Amodei and Altman's AI-safety warnings reach beyond memory names, dropping Intel 7% and AMD 6%.", "url": "https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/"},
+    {"text": "Brent crude spikes past $105 a barrel as Strait of Hormuz shipping attacks and a Saudi pipeline outage stoke supply fears.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15"},
+    {"text": "Dollar posts its biggest jump since June as surging Treasury yields draw a flight to the greenback.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/dollar-jumps-most-since-june-as-10-year-treasury-yield-tops-5"},
+    {"text": "Asian stocks set to fall, tracking a Wall Street selloff driven by AI development jitters and rising yields.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap"}
   ]
 }
