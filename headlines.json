@@ -1,11 +1,11 @@
 {
-  "date": "September 15, 2026",
+  "date": "September 16, 2026",
   "headlines": [
-    {"text": "10-year Treasury yield briefly tops 5% for the first time since 2023 as inflation and heavy debt supply spook bond markets.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount"},
-    {"text": "Fed odds for a quarter-point hike at Wednesday's FOMC decision climb to roughly 92% as energy-driven inflation builds.", "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html"},
-    {"text": "Chip stocks extend their slide as Amodei and Altman's AI-safety warnings reach beyond memory names, dropping Intel 7% and AMD 6%.", "url": "https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/"},
-    {"text": "Brent crude spikes past $105 a barrel as Strait of Hormuz shipping attacks and a Saudi pipeline outage stoke supply fears.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15"},
-    {"text": "Dollar posts its biggest jump since June as surging Treasury yields draw a flight to the greenback.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/dollar-jumps-most-since-june-as-10-year-treasury-yield-tops-5"},
-    {"text": "Asian stocks set to fall, tracking a Wall Street selloff driven by AI development jitters and rising yields.", "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap"}
+    {"text": "Fed set to deliver its first interest-rate hike since 2023 today, with markets pricing in a 92% chance of a quarter-point move.", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"},
+    {"text": "10-year Treasury yield hits 5.04%, its highest level since 2007, as oil-driven inflation fears mount ahead of the Fed decision.", "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html"},
+    {"text": "AI and chip stocks keep sliding after Amodei, Altman and Musk jointly call for a slowdown in frontier AI development.", "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html"},
+    {"text": "Crypto's Clarity Act fails a key Senate cloture vote, dealing a major regulatory setback to the digital-asset industry.", "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"},
+    {"text": "Oil and gas prices jump as Houthi attacks intensify, adding fresh inflation pressure just hours before the Fed's rate call.", "url": "https://www.clickondetroit.com/business/2026/09/14/us-futures-slide-on-ai-blowback-oil-and-gas-jump-after-houthis-intensify-campaign/"},
+    {"text": "Apple's John Ternus officially succeeds Tim Cook as CEO, with Cook shifting to executive chairman as the $1,999 iPhone Duo looms.", "url": "https://finance.yahoo.com/markets/stocks/articles/apple-names-john-ternus-ceo-091712555.html"}
   ]
 }
