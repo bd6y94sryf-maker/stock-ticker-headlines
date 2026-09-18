@@ -1,11 +1,11 @@
 {
-  "date": "September 17, 2026",
+  "date": "September 18, 2026",
   "headlines": [
-    {"text": "Fed Chair Kevin Warsh's hawkish press conference sends stocks toward their lowest close since July.", "url": "https://fortune.com/2026/09/16/warsh-fed-hike-ai-hyperscalers-treasury-yields/"},
-    {"text": "Warsh's 'timelier return' inflation remark sinks the Dow, S&P 500 and Nasdaq after the Fed's first rate hike since 2023.", "url": "https://www.fool.com/investing/2026/09/16/these-2-words-from-fed-chair-kevin-warsh-sunk-dow-sp500-nasdaq-put-wall-street-on-notice/"},
-    {"text": "Dow drops more than 600 points as the Fed's rate hike and Warsh's inflation warnings unnerve investors.", "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html"},
-    {"text": "Oil surges toward $106 a barrel as Strait of Hormuz shipping attacks and Middle East tensions escalate, pressuring the S&P 500.", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html"},
-    {"text": "Wall Street's 'AI doomsday trade' hits chipmakers as Nvidia sinks while Meta, Microsoft and Alphabet gain.", "url": "https://fortune.com/2026/09/14/ai-slowdown-stocks-nvidia-meta/"},
-    {"text": "Nvidia, Micron and AMD lead a broader tech sell-off as the AI trade cools.", "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-micron-amd-lead-tech-sell-off-as-ai-trade-cools-125946422.html"}
+    {"text": "Fed hikes rates 25bp to 3.75%-4% in first increase since 2023, signals more hikes ahead", "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"},
+    {"text": "Bank of Japan raises rates to 31-year high in split 7-2 vote, yen slides", "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"},
+    {"text": "Oil falls for third straight day as Saudi Arabia reroutes crude through Oman after pipeline attack", "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html"},
+    {"text": "Bank of England holds rates at 3.75% despite three MPC members pushing for a hike", "url": "https://moneyweek.com/economy/news/live/uk-interest-rates-september-bank-of-england"},
+    {"text": "DOJ clears Paramount Skydance's $111B acquisition of Warner Bros. Discovery", "url": "https://www.nbcnews.com/business/media/justice-department-approves-paramount-skydance-acquisition-warner-bros-rcna349862"},
+    {"text": "Nasdaq and S&P 500 surge in post-Fed rebound as tech leads gains, Dow adds 316 points", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-17-134502255.html"}
   ]
 }
