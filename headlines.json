@@ -1,12 +1,11 @@
 {
-  "date": "September 22, 2026",
+  "date": "September 23, 2026",
   "headlines": [
-    {"text": "Nasdaq closes at record high of 27,122 as AI trade powers Wall Street's best session since August", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"},
-    {"text": "Fed hikes rates 25bps to 3.75%-4.00%, signals one more increase this year as inflation stays elevated", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"},
-    {"text": "Trump and Xi head into Washington summit this week with AI, tariffs and rare earths on the agenda", "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html"},
-    {"text": "Oil prices sink below $100 a barrel as Treasury yields ease, fueling Wall Street's rally", "url": "https://www.washingtontimes.com/news/2026/sep/21/wall-street-climbs-within-04-record-oil-prices-bond-yields-ease/"},
-    {"text": "AMD tops $1 trillion market cap and Intel surges 12% as chip stocks lead the AI rally", "url": "https://www.kiplinger.com/investing/stocks/nasdaq-jumps-599-points-to-hit-a-new-high-stock-market-today"},
-    {"text": "Paramount settles 12-state lawsuit with California AG over $110 billion Warner Bros. Discovery merger", "url": "https://www.washingtonpost.com/business/2026/09/21/paramount-settles-with-states-over-warner-bros-discovery-merger/"},
-    {"text": "Meta shares jump 11% as its new Muse AI agent app rockets to the top of the App Store", "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html"}
+    {"text": "Xi Jinping lands in Washington for high-stakes summit with Trump, with AI, tariffs, rare earths and Taiwan all on the table", "url": "https://www.bloomberg.com/news/articles/2026-09-22/xi-trump-summit-agenda-ai-tariffs-critical-minerals-iran-war-taiwan"},
+    {"text": "Trump's new sanctions law threatens tariffs up to 100% on China and India over Russian oil purchases, raising stakes ahead of Xi summit", "url": "https://www.usnews.com/news/national-news/articles/2026-09-21/trump-and-xi-meet-in-washington-under-shadow-of-ai-trade-and-rare-earth-tensions"},
+    {"text": "Cintas, Paychex and General Mills report earnings before the bell, offering a fresh read on payrolls, corporate spending and consumer demand", "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61938160/general-mills-cintas-and-3-stocks-to-watch-heading-into-wednesday"},
+    {"text": "Nasdaq futures climb premarket as chip stocks Arm and Western Digital rally, with two Fed speeches on deck as today's main catalyst", "url": "https://strongbuyanalytics.com/stock-market-outlook"},
+    {"text": "Kevin Warsh's rate hike exposes a 'two-speed' US economy, as the AI investment boom collides with rising housing and debt costs", "url": "https://fortune.com/2026/09/22/fed-rate-hike-housing-debt-borrowing-costs/"},
+    {"text": "Asia stocks extend gains for a sixth straight session as the chip rally and US-Iran diplomacy lift sentiment, while oil hovers near multi-week lows", "url": "https://www.swissinfo.ch/eng/nasdaq-100-eyes-peak,-oil-falls-on-us-iran-talks:-markets-wrap/92096388"}
   ]
 }
