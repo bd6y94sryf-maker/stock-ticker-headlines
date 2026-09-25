@@ -1,12 +1,11 @@
 {
-  "date": "September 24, 2026",
+  "date": "September 25, 2026",
   "headlines": [
-    {"text": "Fed hikes rates 25bp to 3.75%-4% in 12-0 vote, its first increase since 2023, with dot plot signaling more hikes ahead", "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"},
-    {"text": "5-year Treasury yield hits 5% for the first time since 2007 as Nasdaq and Russell 2000 sink on rate-hike fallout", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-23-2026"},
-    {"text": "Oil rallies toward $93 a barrel as traders weigh Strait of Hormuz diplomacy and Saudi Arabia's pipeline restart", "url": "https://www.bloomberg.com/news/articles/2026-09-23/latest-oil-market-news-and-analysis-for-sept-24"},
-    {"text": "Nvidia, AMD and Micron lead chip stocks lower as renewed US-Iran tensions rattle broader markets", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html"},
-    {"text": "Gold holds near record highs as Chinese imports hit their fastest pace on record", "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html"},
-    {"text": "Priority Technology to go private in $1.6 billion CEO-led buyout at $8.05 a share", "url": "https://finance.yahoo.com/markets/stocks/articles/priority-technology-holdings-announces-1-140414549.html"},
-    {"text": "Costco and Darden Restaurants headline today's earnings slate as investors gauge consumer spending", "url": "https://www.benzinga.com/news/earnings/26/09/61966741/earnings-scheduled-september-24-2026"}
+    {"text": "Trump and Xi agree to extend US-China trade truce to January 10, easing tariff and rare-earths tensions", "url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-xi-buy-time-on-trade-with-neither-able-to-afford-a-fight"},
+    {"text": "10-year Treasury yield rockets to a 19-year high as oil surges past $100 a barrel on Iran conflict fears", "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html"},
+    {"text": "S&P 500 and Nasdaq futures slide as hot manufacturing and services PMI data stoke fresh Fed rate-hike fears", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html"},
+    {"text": "Costco tops Q4 estimates with $95.7 billion in revenue, powered by an e-commerce surge and tariff refunds", "url": "https://finance.yahoo.com/markets/stocks/articles/costco-tops-q4-estimates-revenue-210534397.html"},
+    {"text": "Bond yields hit fresh two-decade highs as oil prices swing on escalating Iran war headlines", "url": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604"},
+    {"text": "Dow and S&P 500 close lower as investors brace for more Fed tightening amid sticky inflation", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-24-123300781.html"}
   ]
 }
