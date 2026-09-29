@@ -1,11 +1,11 @@
 {
-  "date": "September 28, 2026",
+  "date": "September 29, 2026",
   "headlines": [
-    {"text": "Oil jumps over 4% past $96 a barrel and stock futures slide after Trump rejects Iran's Strait of Hormuz truce proposal", "url": "https://www.benzinga.com/markets/equities/26/09/62016443/stock-market-today-sp-500-dow-jones-futures-fall-as-rising-yields-and-trumps-hormuz-deal-rejection-spook-investors-lly-pep-jef-in-focus"},
-    {"text": "Treasury yields hit multiyear highs, with the 10-year topping 5.2% and the 30-year above 5.5%, on rate and war jitters", "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"},
-    {"text": "Fed delivers its first rate hike in three years, lifting rates to 3.75%-4% as officials cite persistently elevated inflation", "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"},
-    {"text": "Wall Street braces for a data-heavy week as Wednesday's PCE inflation reading and Friday's September jobs report test the Fed's rate path", "url": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html"},
-    {"text": "Nvidia rolls out new AI security tools, OpenShell and Sentry, to rein in rogue AI agents as AI-safety jitters weigh on tech stocks", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html"},
-    {"text": "Paramount's $111 billion bid for Warner Bros Discovery drags toward an Oct. 1 deadline with a $7 million daily ticking fee", "url": "https://deadline.com/2026/09/paramount-settlement-shares-wbd-merger-1237110618/"}
+    {"text": "Dow, S&P and Nasdaq futures waver as a leaked Anthropic IPO prospectus and a scrapped OpenAI model stoke fresh AI-safety fears", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"},
+    {"text": "Anthropic's leaked $2 trillion IPO filing shows a $42 billion net loss and $518 billion in unfunded cloud commitments", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-leaked-42b-023245734.html"},
+    {"text": "OpenAI scraps its next-gen GPT-6.1 'Astra' model after it failed internal safety and deception tests ahead of its dev conference", "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns"},
+    {"text": "Oil holds near $93 a barrel and the 10-year Treasury yield sits at a fresh 19-year high as the US-Iran standoff keeps Hormuz shut", "url": "https://www.nbcnews.com/business/markets/bond-yields-stocks-oil-prices-inflation-fears-rcna595519"},
+    {"text": "Wall Street awaits JOLTs job openings and Conference Board consumer confidence data due at 10am ET for fresh Fed rate-path clues", "url": "https://www.investing.com/news/stock-market-news/jolts-job-openings-and-consumer-confidence-among-data-due-tuesday-93CH-5609556"},
+    {"text": "Micron shares climb into Wednesday's earnings as Wall Street eyes over $50 billion in quarterly revenue on AI memory demand", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-q4-earnings-preview-expect-122113904.html"}
   ]
 }
