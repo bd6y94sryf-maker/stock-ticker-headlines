@@ -1,11 +1,12 @@
 {
-  "date": "September 29, 2026",
+  "date": "September 30, 2026",
   "headlines": [
-    {"text": "Dow, S&P and Nasdaq futures waver as a leaked Anthropic IPO prospectus and a scrapped OpenAI model stoke fresh AI-safety fears", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"},
-    {"text": "Anthropic's leaked $2 trillion IPO filing shows a $42 billion net loss and $518 billion in unfunded cloud commitments", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-leaked-42b-023245734.html"},
-    {"text": "OpenAI scraps its next-gen GPT-6.1 'Astra' model after it failed internal safety and deception tests ahead of its dev conference", "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns"},
-    {"text": "Oil holds near $93 a barrel and the 10-year Treasury yield sits at a fresh 19-year high as the US-Iran standoff keeps Hormuz shut", "url": "https://www.nbcnews.com/business/markets/bond-yields-stocks-oil-prices-inflation-fears-rcna595519"},
-    {"text": "Wall Street awaits JOLTs job openings and Conference Board consumer confidence data due at 10am ET for fresh Fed rate-path clues", "url": "https://www.investing.com/news/stock-market-news/jolts-job-openings-and-consumer-confidence-among-data-due-tuesday-93CH-5609556"},
-    {"text": "Micron shares climb into Wednesday's earnings as Wall Street eyes over $50 billion in quarterly revenue on AI memory demand", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-q4-earnings-preview-expect-122113904.html"}
+    {"text": "Treasury yields hit fresh multidecade highs -- 30-year above 5.6%, 10-year near 5.3% -- as futures wait on today's PCE inflation report", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html"},
+    {"text": "August core PCE, the Fed's favored inflation gauge, due at 8:30am ET and expected to tick up to 3.4% year-over-year", "url": "https://www.kucoin.com/news/flash/2026-09-30-economic-calendar-us-core-pce-and-gdp-final-data-released"},
+    {"text": "New York Fed's John Williams says there's 'no need for urgency' on further rate hikes as officials split on the pace ahead", "url": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"},
+    {"text": "Smart-ring maker Oura postpones its $2.2 billion Nasdaq IPO, citing market uncertainty despite 4x-oversubscribed demand", "url": "https://finance.yahoo.com/markets/stocks/articles/oura-postpones-nasdaq-ipo-amid-115205395.html"},
+    {"text": "S&P 500 financials head for their worst month since March 2023, down 6.3% in September as rising yields squeeze the sector", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026"},
+    {"text": "Brookfield Asset Management agrees to buy Australia's Reliance Worldwide for $2.9 billion in an all-cash take-private deal", "url": "https://www.bloomberg.com/news/articles/2026-08-17/brookfield-agrees-to-buy-reliance-worldwide-for-2-9-billion"},
+    {"text": "Carnival shares surge 13% after record Q3 revenue, raised EPS guidance and $1.2 billion returned to shareholders via buybacks", "url": "https://www.gurufocus.com/news/9101858/carnival-ccl-shares-surge-11-after-strong-q3-results-and-raised-eps-guidance"}
   ]
 }
