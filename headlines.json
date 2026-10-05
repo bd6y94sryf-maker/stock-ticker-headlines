@@ -1,11 +1,12 @@
 {
-  "date": "October 2, 2026",
+  "date": "October 5, 2026",
   "headlines": [
-    {"text": "Dow, S&P 500 and Nasdaq futures rise as Wall Street awaits Friday's September jobs report, with economists expecting ~85,000 jobs added and unemployment steady at 4.1%", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"},
-    {"text": "Nike shares tumble as much as 10% in premarket trading after a revenue miss and fresh plans for 2027 layoffs", "url": "https://finance.yahoo.com/markets/article/nike-stock-sinks-as-revenue-misses-estimates-expects-to-cut-jobs-203030510.html"},
-    {"text": "10-year Treasury yield hovers near 24-year highs, keeping pressure on rate-sensitive financials and real estate", "url": "https://www.schwab.com/learn/story/stock-market-update-open"},
-    {"text": "Trump-Xi summit yields reciprocal tariff-relief framework and new US-China AI dialogue, easing geopolitical risk for markets", "url": "https://fortune.com/2026/09/28/xi-trump-summit-us-china-relations-managed-decline/"},
-    {"text": "Alphabet's Gemini 4 Argon rally fades after Bloomberg report flags internal Google skepticism over its coding performance", "url": "https://www.investing.com/news/stock-market-news/premarket-movers-alphabet-rises-on-new-ai-model-zealand-pharma-sinks-4927019"},
-    {"text": "Fed decision looms October 28 as futures markets split between a hold and another quarter-point hike after September's increase", "url": "https://fxstreet.com/analysis/us-jobs-report-is-due-we-expect-a-hot-one-202610020538"}
+    {"text": "US payrolls grow just 29,000 in September, far below the 84,000 forecast, as unemployment climbs to 4.2%", "url": "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html"},
+    {"text": "Stock futures slip as investors weigh rising Treasury yields ahead of this week's bank-led earnings season", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html"},
+    {"text": "Mattel shares jump 19% on report that Authentic Brands Group is weighing a takeover above $6 billion", "url": "https://finance.yahoo.com/markets/stocks/articles/authentic-brands-group-eyes-6-113810468.html"},
+    {"text": "Fed Chair Kevin Warsh says the central bank 'removed a dose of accommodation' as inflation remains 'too high'", "url": "https://www.fool.com/investing/2026/10/04/fed-chair-kevin-warsh-rate-hike-2023-accommodation/"},
+    {"text": "OPEC+ holds oil output targets steady for November as crude slips on rising Middle East exports and a planned G7 stock release", "url": "https://www.bloomberg.com/news/articles/2026-10-04/latest-oil-market-news-and-analysis-for-oct-5"},
+    {"text": "ISM Services PMI due today expected to hold near 55 as tariff and Middle East cost pressures persist", "url": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900"},
+    {"text": "Bank earnings season kicks off this week with JPMorgan, Citigroup, Wells Fargo, Bank of America, Morgan Stanley and Goldman Sachs reporting", "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks"}
   ]
 }
