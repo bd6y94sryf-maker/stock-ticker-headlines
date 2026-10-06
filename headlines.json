@@ -1,12 +1,11 @@
 {
-  "date": "October 5, 2026",
+  "date": "October 6, 2026",
   "headlines": [
-    {"text": "US payrolls grow just 29,000 in September, far below the 84,000 forecast, as unemployment climbs to 4.2%", "url": "https://finance.yahoo.com/economy/articles/september-2026-jobs-report-payrolls-123334753.html"},
-    {"text": "Stock futures slip as investors weigh rising Treasury yields ahead of this week's bank-led earnings season", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html"},
-    {"text": "Mattel shares jump 19% on report that Authentic Brands Group is weighing a takeover above $6 billion", "url": "https://finance.yahoo.com/markets/stocks/articles/authentic-brands-group-eyes-6-113810468.html"},
-    {"text": "Fed Chair Kevin Warsh says the central bank 'removed a dose of accommodation' as inflation remains 'too high'", "url": "https://www.fool.com/investing/2026/10/04/fed-chair-kevin-warsh-rate-hike-2023-accommodation/"},
-    {"text": "OPEC+ holds oil output targets steady for November as crude slips on rising Middle East exports and a planned G7 stock release", "url": "https://www.bloomberg.com/news/articles/2026-10-04/latest-oil-market-news-and-analysis-for-oct-5"},
-    {"text": "ISM Services PMI due today expected to hold near 55 as tariff and Middle East cost pressures persist", "url": "https://www.fxstreet.com/news/ism-services-pmi-expected-to-show-robust-us-economy-in-september-202610050900"},
-    {"text": "Bank earnings season kicks off this week with JPMorgan, Citigroup, Wells Fargo, Bank of America, Morgan Stanley and Goldman Sachs reporting", "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks"}
+    {"text": "US Treasury yields pull back from 2002 highs as oil retreats and Bessent pledges to tame the debt trajectory", "url": "https://www.bloomberg.com/news/articles/2026-10-06/us-yields-fall-from-2002-high-as-oil-dips-bessent-vows-on-debt"},
+    {"text": "Nvidia closes in on a historic $6 trillion market cap after notching a fresh record high", "url": "https://www.bloomberg.com/news/articles/2026-10-06/nvidia-heads-for-6-trillion-value-with-chipmaker-back-at-record"},
+    {"text": "Fed rate-hike odds for the October 28 meeting collapse to roughly 16% on prediction markets after a weak September jobs report", "url": "https://finance.yahoo.com/economy/policy/articles/fed-hike-odds-collapse-16-145446547.html"},
+    {"text": "Schneider Electric agrees to acquire Boston's PTC for $22.6 billion in its biggest-ever deal", "url": "https://www.bostonglobe.com/2026/10/05/business/schneider-electric-ptc/"},
+    {"text": "Aramco's CEO warns global oil inventories are 'scarily thin' and could take two years to rebuild once the Strait of Hormuz fully reopens", "url": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html"},
+    {"text": "Intel shares slide after Musk confirms TSMC is in talks to join his Terafab chipmaking venture", "url": "https://finance.yahoo.com/markets/stocks/articles/intel-shares-fall-tsmc-discusses-121249159.html"}
   ]
 }
