@@ -1,11 +1,11 @@
 {
-  "date": "October 8, 2026",
+  "date": "October 9, 2026",
   "headlines": [
-    {"text": "S&P 500 and Nasdaq notch fresh record closes before fading ahead of Fed minutes", "url": "https://ts2.tech/en/sp-500-sets-record-but-fades-26-points-before-fed-minutes/"},
-    {"text": "Wall Street retreats as Treasury yields hit multi-decade highs, Caterpillar sinks over 6%", "url": "https://www.fool.com/coverage/stock-market-today/2026/10/07/stock-market-midday-oct-7-rising-treasury-yields-pressure-stocks-caterpillar-tumbles-over-6/"},
-    {"text": "Fed's September meeting minutes show policymakers split on path for further rate hikes", "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-october-2026"},
-    {"text": "Brent crude holds near $100 as Iran-linked tanker attacks escalate in the Strait of Hormuz", "url": "https://maritime-executive.com/article/ukmto-two-more-tankers-attacked-on-omani-route-in-strait-of-hormuz"},
-    {"text": "Mattel shares surge over 20% on report of $6 billion-plus takeover bid from Authentic Brands Group", "url": "https://www.ksl.com/article/51631238/mattel-attracts-takeover-interest-from-authentic-brands-group-wsj-reports"},
-    {"text": "Government shutdown drags on, leaving Wall Street without fresh jobs and inflation data", "url": "https://www.scrippsnews.com/politics/economy/the-hangover-from-the-government-shutdown-just-hit-wall-street"}
+    {"text": "Nasdaq tumbles 1.3% as AI-trade jitters and an oil-driven inflation jump hit tech stocks", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"},
+    {"text": "S&P 500 and Dow retreat from record highs as rising bond yields rattle markets", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"},
+    {"text": "30-year Treasury yield scales a fresh 24-year high as the global bond selloff deepens", "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/588457"},
+    {"text": "Trump weighs massive new strikes on Iran, bigger than Operation Epic Fury, as oil jumps", "url": "https://stocktwits.com/news-articles/markets/equity/trump-considering-massive-iran-strike-bigger-than-operation-epic-fury-report/cZZnMt8R7U4"},
+    {"text": "Goldman Sachs warns Brent crude could stay above $100 through 2026 if Hormuz closure persists", "url": "https://finance.yahoo.com/sectors/energy/articles/brent-stay-above-100-2026-003121731.html"},
+    {"text": "PepsiCo Q3 revenue rises 5.6% to $25.3 billion as company plans deeper cost cuts", "url": "https://www.sec.gov/Archives/edgar/data/0000077476/000007747626000050/q320268-kxexhibit991.htm"}
   ]
 }
