@@ -1,11 +1,12 @@
 {
-  "date": "October 9, 2026",
+  "date": "October 12, 2026",
   "headlines": [
-    {"text": "Nasdaq tumbles 1.3% as AI-trade jitters and an oil-driven inflation jump hit tech stocks", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"},
-    {"text": "S&P 500 and Dow retreat from record highs as rising bond yields rattle markets", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html"},
-    {"text": "30-year Treasury yield scales a fresh 24-year high as the global bond selloff deepens", "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/588457"},
-    {"text": "Trump weighs massive new strikes on Iran, bigger than Operation Epic Fury, as oil jumps", "url": "https://stocktwits.com/news-articles/markets/equity/trump-considering-massive-iran-strike-bigger-than-operation-epic-fury-report/cZZnMt8R7U4"},
-    {"text": "Goldman Sachs warns Brent crude could stay above $100 through 2026 if Hormuz closure persists", "url": "https://finance.yahoo.com/sectors/energy/articles/brent-stay-above-100-2026-003121731.html"},
-    {"text": "PepsiCo Q3 revenue rises 5.6% to $25.3 billion as company plans deeper cost cuts", "url": "https://www.sec.gov/Archives/edgar/data/0000077476/000007747626000050/q320268-kxexhibit991.htm"}
+    {"text": "Stock futures rise and oil prices fall as Wall Street braces for a busy earnings week", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
+    {"text": "Oil prices tumble after Trump announces a Russia-Ukraine energy-infrastructure ceasefire", "url": "https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire"},
+    {"text": "Brent holds near $103 as fresh Houthi strikes on Saudi Arabia keep Middle East risk elevated", "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"},
+    {"text": "JPMorgan and Goldman Sachs kick off Q3 bank earnings season Tuesday before the open", "url": "https://www.tipranks.com/news/jpm-gs-bac-what-to-expect-from-big-bank-earnings-this-week"},
+    {"text": "September CPI report due Wednesday in a key test for the Fed's rate-hike path", "url": "https://admiralmarkets.com/analytics/traders-blog/us-cpi-preview-september-2026-forecasts-and-the-core-cpi-outlook"},
+    {"text": "Fed seen leaning toward more hikes after September minutes showed a unanimous shift to tightening", "url": "https://www.tmgm.com/es/analysis/market-news/article/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303"},
+    {"text": "Dow, S&P 500 and Nasdaq notched a winning week despite a surge in long-dated bond yields", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html"}
   ]
 }
