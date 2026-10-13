@@ -1,12 +1,11 @@
 {
-  "date": "October 12, 2026",
+  "date": "October 13, 2026",
   "headlines": [
-    {"text": "Stock futures rise and oil prices fall as Wall Street braces for a busy earnings week", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"},
-    {"text": "Oil prices tumble after Trump announces a Russia-Ukraine energy-infrastructure ceasefire", "url": "https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire"},
-    {"text": "Brent holds near $103 as fresh Houthi strikes on Saudi Arabia keep Middle East risk elevated", "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"},
-    {"text": "JPMorgan and Goldman Sachs kick off Q3 bank earnings season Tuesday before the open", "url": "https://www.tipranks.com/news/jpm-gs-bac-what-to-expect-from-big-bank-earnings-this-week"},
-    {"text": "September CPI report due Wednesday in a key test for the Fed's rate-hike path", "url": "https://admiralmarkets.com/analytics/traders-blog/us-cpi-preview-september-2026-forecasts-and-the-core-cpi-outlook"},
-    {"text": "Fed seen leaning toward more hikes after September minutes showed a unanimous shift to tightening", "url": "https://www.tmgm.com/es/analysis/market-news/article/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303"},
-    {"text": "Dow, S&P 500 and Nasdaq notched a winning week despite a surge in long-dated bond yields", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html"}
+    {"text": "Dow futures rise and S&P 500 hovers near records as JPMorgan, Goldman Sachs and Citigroup kick off bank earnings season", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-080236234.html"},
+    {"text": "Bank investors focus on higher-rate impact and dealmaking outlook as Q3 earnings season begins", "url": "https://finance.yahoo.com/markets/stocks/articles/us-bank-investors-focus-impact-101254962.html"},
+    {"text": "Chip stocks tumble as Micron and SanDisk get drilled on surprising competition news out of China", "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-just-nailed-it-on-why-chip-stocks-like-micron-and-sandisk-are-being-drilled-on-surprising-news-out-of-china-090447539.html"},
+    {"text": "Oil extends gains near $106 as Middle East tensions and doubts over a Russia-Ukraine energy ceasefire persist", "url": "https://finance.yahoo.com/markets/article/oil-gains-on-middle-east-tensions-growing-doubts-of-energy-ceasefire-between-russia-and-ukraine-134049071.html"},
+    {"text": "S&P 500 futures pause near record highs as oil rises ahead of bank earnings", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-p-500-134445777.html"},
+    {"text": "September CPI due Wednesday expected to mark the hottest inflation reading in five months on high gas prices", "url": "https://www.morningbrew.com/issues/latest"}
   ]
 }
