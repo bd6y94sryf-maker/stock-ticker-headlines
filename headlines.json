@@ -1,11 +1,12 @@
 {
-  "date": "October 13, 2026",
+  "date": "October 14, 2026",
   "headlines": [
-    {"text": "Dow futures rise and S&P 500 hovers near records as JPMorgan, Goldman Sachs and Citigroup kick off bank earnings season", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-080236234.html"},
-    {"text": "Bank investors focus on higher-rate impact and dealmaking outlook as Q3 earnings season begins", "url": "https://finance.yahoo.com/markets/stocks/articles/us-bank-investors-focus-impact-101254962.html"},
-    {"text": "Chip stocks tumble as Micron and SanDisk get drilled on surprising competition news out of China", "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-just-nailed-it-on-why-chip-stocks-like-micron-and-sandisk-are-being-drilled-on-surprising-news-out-of-china-090447539.html"},
-    {"text": "Oil extends gains near $106 as Middle East tensions and doubts over a Russia-Ukraine energy ceasefire persist", "url": "https://finance.yahoo.com/markets/article/oil-gains-on-middle-east-tensions-growing-doubts-of-energy-ceasefire-between-russia-and-ukraine-134049071.html"},
-    {"text": "S&P 500 futures pause near record highs as oil rises ahead of bank earnings", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-p-500-134445777.html"},
-    {"text": "September CPI due Wednesday expected to mark the hottest inflation reading in five months on high gas prices", "url": "https://www.morningbrew.com/issues/latest"}
+    {"text": "Dow, S&P 500 and Nasdaq futures edge higher as Wall Street awaits the September CPI inflation report", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"},
+    {"text": "September CPI due at 8:30am ET, with economists forecasting inflation accelerated to around 3.6% annually on higher energy costs", "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html"},
+    {"text": "Goldman Sachs crushes Q3 estimates with $5.29 billion in profit as trading revenue surges 23%", "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-beats-q3-113502957.html"},
+    {"text": "Bank of America reports third-quarter results Wednesday, rounding out a mixed start to big bank earnings season", "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"},
+    {"text": "Treasury yields hold near 24-year highs around 5.25% on the 10-year, keeping pressure on stocks", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"},
+    {"text": "Chip stocks extend their slide as China competition and valuation worries weigh on the Nasdaq", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"},
+    {"text": "Oil climbs again with Brent crude above $106 and WTI near $95 a barrel ahead of the inflation data", "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html"}
   ]
 }
