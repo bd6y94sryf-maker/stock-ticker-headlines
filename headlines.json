@@ -1,12 +1,11 @@
 {
-  "date": "October 14, 2026",
+  "date": "October 15, 2026",
   "headlines": [
-    {"text": "Dow, S&P 500 and Nasdaq futures edge higher as Wall Street awaits the September CPI inflation report", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"},
-    {"text": "September CPI due at 8:30am ET, with economists forecasting inflation accelerated to around 3.6% annually on higher energy costs", "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html"},
-    {"text": "Goldman Sachs crushes Q3 estimates with $5.29 billion in profit as trading revenue surges 23%", "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-beats-q3-113502957.html"},
-    {"text": "Bank of America reports third-quarter results Wednesday, rounding out a mixed start to big bank earnings season", "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"},
-    {"text": "Treasury yields hold near 24-year highs around 5.25% on the 10-year, keeping pressure on stocks", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"},
-    {"text": "Chip stocks extend their slide as China competition and valuation worries weigh on the Nasdaq", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-chip-stocks-192419999.html"},
-    {"text": "Oil climbs again with Brent crude above $106 and WTI near $95 a barrel ahead of the inflation data", "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html"}
+    {"text": "Nasdaq-100 futures sink over 1% as AI-overspending fears slam chip stocks while Dow futures hold firm", "url": "https://invezz.com/news/2026/10/15/nasdaq-futures-crash-380-points-5-things-to-know-before-wall-street-opens-on-oct-15"},
+    {"text": "Wall Street posts worst day since July as hotter-than-expected September CPI revives Fed rate-hike worries", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"},
+    {"text": "JPMorgan posts rare earnings miss on weak trading desk while Goldman Sachs crushes estimates on equities strength", "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"},
+    {"text": "Big banks flag IPO lull, rising rates and sticky inflation even as most post strong Q3 profits", "url": "https://fortune.com/2026/10/14/wall-streets-big-banks-deliver-mixed-earnings-executives-bet-the-ipo-lull-wont-last/"},
+    {"text": "Traders brace for PPI, retail sales and jobless claims data as Fed weighs its October 28 rate decision", "url": "https://fxstreet.com/news/dow-jones-futures-gains-ahead-of-us-ppi-retail-sales-data-202610150833"},
+    {"text": "CoreWeave slides another 4.5% and Oracle drops as AI-spending jitters ripple through tech stocks", "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html"}
   ]
 }
