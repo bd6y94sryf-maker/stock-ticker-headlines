@@ -1,11 +1,11 @@
 {
-  "date": "October 16, 2026",
+  "date": "October 19, 2026",
   "headlines": [
-    {"text": "S&P 500 futures ease as hotter-than-expected core CPI print dims hopes for Fed rate relief", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081318385.html"},
-    {"text": "Dow jumps over 550 points as Treasury yields sink and tech sell-off pivots into a rally", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"},
-    {"text": "Dow edges higher Thursday as investors rotate out of AI and chip stocks into defensive plays", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"},
-    {"text": "S&P 500 still on track for a losing week even after Thursday's rebound, CNBC reports", "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"},
-    {"text": "Hot September inflation data reignites fears over stretched AI and semiconductor valuations", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-15-123000001.html"},
-    {"text": "Fed Chair Kevin Warsh defends holding interest rates steady as dissent grows among FOMC officials", "url": "https://cryptobriefing.com/kevin-warsh-defends-fed-rate-hold-inflation/"}
+    {"text": "Wall Street slide carries into Monday as hot import-price data revives inflation fears after Friday's AI-driven rout", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081049033.html"},
+    {"text": "CoreWeave bonds trade like distressed debt as AI infrastructure spending outpaces balance sheets, dragging Nebius and Oracle lower", "url": "https://investinglive.com/stocks/coreweave-bonds-trade-like-distressed-debt-as-ai-spending-outpaces-balance-sheets/"},
+    {"text": "Deutsche Bank sticks with Buy rating on CoreWeave even as debt fears hammer the stock", "url": "https://cryptobriefing.com/deutsche-bank-buy-coreweave-selloff/"},
+    {"text": "Citi turns hawkish on the Fed, now expects a 25bp December rate hike after hotter-than-expected September CPI", "url": "https://www.kitco.com/news/off-the-wire/2026-10-14/citi-turns-hawkish-fed-after-inflation-surprise-expects-december-rate"},
+    {"text": "Boston Fed's Collins backs another rate hike before year-end, flagging persistent inflation pressures", "url": "https://www.kitco.com/news/off-the-wire/2026-10-13/feds-collins-sees-another-rate-hike-table-end-2026"},
+    {"text": "Tesla gears up to report Q3 earnings Wednesday as Wall Street weighs delivery beat against margin pressure", "url": "https://www.tipranks.com/news/tesla-tsla-is-about-to-report-q3-earnings-tomorrow-heres-what-to-expect"}
   ]
 }
