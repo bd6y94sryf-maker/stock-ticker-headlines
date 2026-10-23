@@ -1,11 +1,11 @@
 {
-  "date": "October 22, 2026",
+  "date": "October 23, 2026",
   "headlines": [
-    {"text": "Nasdaq plunges 2.6% to its worst session since June as chip stocks sink on AI-debt worries; S&P 500 falls 1.2% while the Dow ekes out a gain", "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"},
-    {"text": "Meta sinks nearly 7% after Q3 capex hits $34.9B, pushing free cash flow negative for the first time since 2012 and fueling AI-debt jitters", "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"},
+    {"text": "Nasdaq sinks 2.6% to its worst session since June as AI-debt worries slam chip stocks; S&P 500 falls 1.2% while the Dow ekes out a gain", "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"},
+    {"text": "10-year Treasury yield tumbles below 5% to a one-month low as investors rotate into safe havens amid AI-debt jitters", "url": "https://cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"},
+    {"text": "Brent crude holds near $111, its highest since May, after NYT reports US and Israel drew up a plan for a renewed strike campaign on Iran", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-tech-stocks-104840239.html"},
+    {"text": "Meta sinks nearly 7% after Q3 capex hits $34.9B, pushing free cash flow negative for the first time since 2012 and fueling AI-debt fears", "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"},
     {"text": "Tesla shares slide as flat Q3 revenue and a lowered full-year capex outlook overshadow an EPS beat", "url": "https://www.benzinga.com/markets/equities/26/10/62519510/tesla-shares-fall-premarket-q3-earnings-results"},
-    {"text": "Brent crude jumps 4% to $113.17, its highest since May, after NYT reports US and Israel drew up a plan for a renewed three-day strike campaign on Iran", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-tech-stocks-104840239.html"},
-    {"text": "IBM raises its full-year free-cash-flow outlook after a Q3 revenue beat led by software and AI demand", "url": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114326000093/ibm-20261021xex991.htm"},
-    {"text": "Lam Research's fiscal Q1 revenue hits $8.2 billion, topping estimates on surging AI chip-equipment demand", "url": "https://www.sec.gov/Archives/edgar/data/0000707549/000070754926000052/lrcx_exhibitx991xq1x2027.htm"}
+    {"text": "Lockheed Martin tops Q3 estimates with $20.7B revenue, raises full-year outlook for a second straight quarter on a record $292B backlog", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lockheed-martin-tops-q3-2026-estimates-raises-outlook-93CH-4966485"}
   ]
 }
