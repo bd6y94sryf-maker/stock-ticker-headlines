@@ -1,10 +1,11 @@
 {
   "date": "October 23, 2026",
   "headlines": [
-    {"text": "Stock futures wobble Friday as AI-trade jitters linger, though Tesla and Meta shares stabilize after Thursday's AI-debt-driven slide", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"},
-    {"text": "Brent crude tops $113, a fresh five-month high, as Netanyahu urges ousting Iran's regime and Houthi strikes hit Saudi Arabia", "url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26"},
-    {"text": "Fed officials lean against an October rate hike as traders shift their bets to a December move instead", "url": "https://www.nst.com.my/amp/business/economy/2026/10/1545927/fed-policymakers-lean-against-october-rate-hike"},
-    {"text": "10-year Treasury yield tumbles below 5% to a one-month low as investors rotate into safe havens amid AI-debt jitters", "url": "https://cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"},
-    {"text": "Nasdaq posts its worst day since June as chip stocks Intel, AMD and Marvell each sink more than 8% on AI-spending debt fears", "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"}
+    {"text": "Weekly jobless claims fall to 194,000, the lowest since July, as investors brace for Friday's flash PMI data", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-121228775.html"},
+    {"text": "Fed signals no October rate hike, but traders bet on a December increase as war-driven inflation clouds the outlook", "url": "https://www.nst.com.my/amp/business/economy/2026/10/1545927/fed-policymakers-lean-against-october-rate-hike"},
+    {"text": "Brent crude surges to $114.72, a five-month high, as Netanyahu calls for ousting Iran's regime and Houthi strikes threaten Saudi oil infrastructure", "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.amp.html"},
+    {"text": "Nasdaq sinks 2.6% as AI-spending fears deepen; Marvell and AMD sink 8%, Intel drops 7% after Lam Research's chip-supply warning", "url": "https://finance.yahoo.com/technology/articles/chip-stocks-fall-supply-warning-154508313.html"},
+    {"text": "Meta plunges 7% despite a Q3 earnings beat as Wall Street balks at its $135-145 billion 2026 capex plan; Tesla slips 3% on its own spending worries", "url": "https://www.forbes.com/sites/fionariley/2026/10/22/ai-stocks-slide-as-spending-anxiety-festers-after-tesla-meta-earnings/"},
+    {"text": "10-year Treasury yield tumbles below 5% to a one-month low as investors rotate into safe havens amid AI-debt jitters", "url": "https://cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"}
   ]
 }
