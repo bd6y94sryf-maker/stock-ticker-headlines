@@ -1,11 +1,10 @@
 {
   "date": "October 23, 2026",
   "headlines": [
-    {"text": "Nasdaq sinks 2.6% to its worst session since June as AI-debt worries slam chip stocks; S&P 500 falls 1.2% while the Dow ekes out a gain", "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"},
+    {"text": "Stock futures wobble Friday as AI-trade jitters linger, though Tesla and Meta shares stabilize after Thursday's AI-debt-driven slide", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"},
+    {"text": "Brent crude tops $113, a fresh five-month high, as Netanyahu urges ousting Iran's regime and Houthi strikes hit Saudi Arabia", "url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26"},
+    {"text": "Fed officials lean against an October rate hike as traders shift their bets to a December move instead", "url": "https://www.nst.com.my/amp/business/economy/2026/10/1545927/fed-policymakers-lean-against-october-rate-hike"},
     {"text": "10-year Treasury yield tumbles below 5% to a one-month low as investors rotate into safe havens amid AI-debt jitters", "url": "https://cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html"},
-    {"text": "Brent crude holds near $111, its highest since May, after NYT reports US and Israel drew up a plan for a renewed strike campaign on Iran", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-tech-stocks-104840239.html"},
-    {"text": "Meta sinks nearly 7% after Q3 capex hits $34.9B, pushing free cash flow negative for the first time since 2012 and fueling AI-debt fears", "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"},
-    {"text": "Tesla shares slide as flat Q3 revenue and a lowered full-year capex outlook overshadow an EPS beat", "url": "https://www.benzinga.com/markets/equities/26/10/62519510/tesla-shares-fall-premarket-q3-earnings-results"},
-    {"text": "Deckers Outdoor tumbles ~9% premarket as a cautious FY27 sales outlook overshadows an EPS beat inflated by a one-time tariff refund", "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62552145/why-ringcentral-shares-are-trading-higher-by-15-here-are-20-stocks-moving-premarket"}
+    {"text": "Nasdaq posts its worst day since June as chip stocks Intel, AMD and Marvell each sink more than 8% on AI-spending debt fears", "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"}
   ]
 }
