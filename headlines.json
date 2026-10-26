@@ -1,10 +1,11 @@
 {
   "date": "October 26, 2026",
   "headlines": [
-    {"text": "Anthropic files its S-1 for a Nasdaq IPO targeting a $2 trillion valuation, disclosing roughly $518 billion in long-term compute commitments", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-1-518-billion-commitment-165731037.html"},
+    {"text": "Anthropic files S-1 for a Nasdaq IPO under ticker ANT, targeting a roughly $2 trillion valuation", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-1-518-billion-commitment-165731037.html"},
     {"text": "Dow closes at 52,361.58, S&P 500 gains 0.7% to 7,676.77 and Nasdaq jumps 0.82% to 26,169.38 as chip stocks rally on Anthropic's IPO filing", "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"},
-    {"text": "Oil eases and stock futures extend gains after Trump rules out striking Iran, unwinding last week's war-risk premium", "url": "https://www.benzinga.com/markets/equities/26/10/62583105/stock-market-today-dow-jones-sp-500-futures-rise-after-trump-rules-out-iran-strike-itub-non-cls-in-focus"},
-    {"text": "Fed, ECB and Bank of Japan all deliver rate decisions this week; Fed policymakers lean against an October hike, with markets pricing ~87% odds of a hold at 3.75%-4.00% Wednesday", "url": "https://www.nst.com.my/amp/business/economy/2026/10/1545927/fed-policymakers-lean-against-october-rate-hike"},
-    {"text": "Big Tech earnings crunch hits this week as Alphabet, Microsoft and Amazon report, with investors fixated on runaway AI capital spending", "url": "https://finance.yahoo.com/markets/stocks/articles/tech-giants-set-report-earnings-213719256.html"}
+    {"text": "DoorDash in advanced talks to acquire Instacart in a deal that could be finalized within days, WSJ reports", "url": "https://www.streetinsider.com/Hot+M+and+A/Doordash+In+Advanced+Talks+To+Acquire+Instacart+-+WSJ/27233673.html"},
+    {"text": "JetBlue shares plunge toward a 52-week low after report that senior creditors hired restructuring adviser PJT Partners", "url": "https://www.streetinsider.com/Investing/JetBlue+shares+drop+on+creditor+restructuring+news+amid+bankruptcy+filing+fears/27232245.html"},
+    {"text": "Fed, ECB and Bank of Japan all deliver rate decisions this week, with markets expecting the Fed to hold at 3.75%-4.00% on Wednesday", "url": "https://kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"},
+    {"text": "Big Tech earnings crunch hits this week as Alphabet and Microsoft report Wednesday and Amazon Thursday, with AI capex in focus", "url": "https://finance.yahoo.com/markets/stocks/articles/tech-giants-set-report-earnings-213719256.html"}
   ]
 }
