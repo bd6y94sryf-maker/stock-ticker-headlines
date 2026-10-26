@@ -1,10 +1,11 @@
 {
   "date": "October 26, 2026",
   "headlines": [
-    {"text": "Anthropic files S-1 for IPO, plans to list on Nasdaq under ticker ANT in a deal that could value the AI lab above $2 trillion", "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676"},
-    {"text": "Dow, S&P 500 and Nasdaq futures rise Monday as Wall Street enters a pivotal week of Big Tech earnings and Wednesday's Fed decision", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"},
+    {"text": "Anthropic files its S-1 for a Nasdaq IPO targeting a $2 trillion valuation, disclosing roughly $518 billion in long-term compute commitments", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-1-518-billion-commitment-165731037.html"},
+    {"text": "Dow, S&P 500 and Nasdaq futures rise Monday as Wall Street enters a pivotal week of Big Tech earnings and Wednesday's Fed decision", "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-to-kick-off-big-week-of-big-tech-earnings-fed-meeting-110341652.html"},
     {"text": "Oil eases and stock futures extend gains after Trump rules out striking Iran, unwinding last week's war-risk premium", "url": "https://www.benzinga.com/markets/equities/26/10/62583105/stock-market-today-dow-jones-sp-500-futures-rise-after-trump-rules-out-iran-strike-itub-non-cls-in-focus"},
     {"text": "Fed, ECB and Bank of Japan all deliver rate decisions this week; Fed policymakers lean against an October hike, with markets pricing ~87% odds of a hold at 3.75%-4.00% Wednesday", "url": "https://www.nst.com.my/amp/business/economy/2026/10/1545927/fed-policymakers-lean-against-october-rate-hike"},
+    {"text": "Nvidia and chipmakers rebound from last week's AI-valuation selloff, though AI financing and debt concerns persist ahead of the Fed decision", "url": "https://www.tipranks.com/news/stock-market-today-oct-26-futures-rise-ahead-of-big-tech-earnings-and-feds-rate-decision"},
     {"text": "Big Tech earnings crunch hits this week as Alphabet, Microsoft and Amazon report, with investors fixated on runaway AI capital spending", "url": "https://finance.yahoo.com/markets/stocks/articles/tech-giants-set-report-earnings-213719256.html"}
   ]
 }
