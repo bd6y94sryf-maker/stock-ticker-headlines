@@ -46,3 +46,30 @@ the file itself:
 Commit and push straight to the default branch (`main`) with a message like
 `Headlines for <date> <HH:MM> UTC`. Since the app only ever reads the latest
 commit, there's no need for PRs or review on these routine updates.
+
+## Git safety checklist (always follow, every run)
+
+This repo's working copy sometimes starts in a **detached HEAD** state
+rather than on `main` (a past run found 4 hours of commits stranded this
+way — committed locally, never actually published, while `git push origin
+main` silently "succeeded" by pushing the unchanged, stale local `main`
+ref). To prevent silent data loss, every run MUST do this exact sequence:
+
+1. Before committing, check whether HEAD is attached to `main`:
+   `git symbolic-ref -q HEAD` — if it does NOT print `refs/heads/main`,
+   run `git checkout -B main` first so the branch pointer actually moves
+   with your commit (don't just commit on a detached HEAD).
+2. If stepping onto `main` reveals it's behind `origin/main`, fast-forward
+   first (`git fetch origin main && git merge --ff-only origin/main`)
+   before writing the new `headlines.json`.
+3. Commit, then push with `git push -u origin main` (not a bare
+   `git push`, in case there's no upstream yet).
+4. **Verify the push actually landed** — don't trust exit code 0 alone:
+   `git fetch origin main && git rev-parse HEAD` and
+   `git rev-parse origin/main` must print the same SHA. If they don't
+   match, something is wrong (diverged history, rejected push, stale
+   local `main`) — investigate and retry rather than ending the run.
+5. If step 4 ever reveals pre-existing unpushed commits from earlier runs
+   (local `main`/HEAD ahead of `origin/main` by more than your own new
+   commit), push those through too rather than leaving them stranded —
+   do not rewrite or drop them.
