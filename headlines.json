@@ -1,9 +1,10 @@
 {
   "date": "November 2, 2026",
   "headlines": [
-    {"text": "Fed holds rates at 3.75%-4.00% in a 10-2 split vote; traders still lean toward a December hike after hot inflation data", "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62669263/fed-december-hike"},
-    {"text": "Dow, S&P 500 and Nasdaq futures bounce Monday as Wall Street recovers from Friday's AI-driven selloff heading into a packed earnings week", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"},
-    {"text": "Binance's $6.3 billion security breach rattles crypto markets, sending bitcoin to a six-week low near $77,600 before it steadies", "url": "https://www.foxbusiness.com/technology/binance-says-security-incident-had-estimated-6-3b-impact-3b-assets-frozen"},
+    {"text": "Marvell agrees to buy Lumentum in a $115 billion all-stock deal, one of tech's largest-ever tie-ups, to build out AI optical networking", "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"},
+    {"text": "Dow, S&P 500 and Nasdaq futures jump as Wall Street rebounds from last week's worst selloff in months, with Apple and Palantir earnings on deck", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-101832709.html"},
+    {"text": "Oil prices slide as markets weigh signs of easing US-Iran tensions heading into Tuesday's midterm elections", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"},
+    {"text": "Fed's December rate-hike odds jump to roughly 85% after last week's 10-2 vote to hold rates at 3.75%-4.00%", "url": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"},
     {"text": "Apple reports fiscal Q4 earnings after today's close in new CEO John Ternus's first call, with investors watching iPhone demand and memory costs", "url": "https://macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2"},
     {"text": "Palantir looks to extend its streak to a 10th straight earnings beat when it reports Q3 results after Monday's close", "url": "https://247wallst.com/investing/2026/10/14/palantirs-earnings-gamble-nine-straight-beats-set-high-bar-for-november-2/"}
   ]
