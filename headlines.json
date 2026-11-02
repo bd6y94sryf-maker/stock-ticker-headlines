@@ -1,12 +1,11 @@
 {
   "date": "November 2, 2026",
   "headlines": [
-    {"text": "Fed holds rates at 3.75%-4% in a 10-2 vote, with two governors dissenting in favor of a hike; markets price ~83% odds of a December hike", "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"},
-    {"text": "October ISM manufacturing PMI rises to 55.5, a 10th straight month of expansion, beating estimates of about 54.5", "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"},
+    {"text": "Apple posts record fiscal Q4 revenue of $114.5 billion, up 12%, beating on iPhone and Services in John Ternus's first earnings call as CEO", "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"},
+    {"text": "Palantir tops $2 billion in quarterly revenue for the first time, up 96% year-over-year, beating its own guidance", "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"},
     {"text": "Dow closes up 0.4% to 51,984 as Nasdaq sheds 1.1% and S&P 500 slips 0.5% on a renewed rotation out of tech and AI-linked names", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"},
     {"text": "Micron slides about 4%, dragging Western Digital and SanDisk lower after Kioxia's cautious outlook rattles memory stocks", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-4-kioxia-cautious-185355108.html"},
     {"text": "Marvell agrees to buy Lumentum in a $115 billion all-stock deal, one of tech's largest-ever tie-ups, to build out AI optical networking", "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"},
-    {"text": "Apple reports fiscal Q4 earnings after today's close in new CEO John Ternus's first call, with investors watching iPhone demand and memory costs", "url": "https://macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2"},
-    {"text": "Palantir looks to extend its streak to a 10th straight earnings beat when it reports Q3 results after Monday's close", "url": "https://247wallst.com/investing/2026/10/14/palantirs-earnings-gamble-nine-straight-beats-set-high-bar-for-november-2/"}
+    {"text": "October ISM manufacturing PMI rises to 55.5, a 10th straight month of expansion, beating estimates of about 54.5", "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"}
   ]
 }
