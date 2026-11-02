@@ -1,11 +1,12 @@
 {
   "date": "November 2, 2026",
   "headlines": [
-    {"text": "Apple posts record fiscal Q4 revenue of $114.5 billion, up 12%, beating on iPhone and Services in John Ternus's first earnings call as CEO", "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"},
-    {"text": "Palantir tops $2 billion in quarterly revenue for the first time, up 96% year-over-year, beating its own guidance", "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"},
-    {"text": "Dow closes up 0.4% to 51,984 as Nasdaq sheds 1.1% and S&P 500 slips 0.5% on a renewed rotation out of tech and AI-linked names", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"},
-    {"text": "Micron slides about 4%, dragging Western Digital and SanDisk lower after Kioxia's cautious outlook rattles memory stocks", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-4-kioxia-cautious-185355108.html"},
-    {"text": "Marvell agrees to buy Lumentum in a $115 billion all-stock deal, one of tech's largest-ever tie-ups, to build out AI optical networking", "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"},
-    {"text": "October ISM manufacturing PMI rises to 55.5, a 10th straight month of expansion, beating estimates of about 54.5", "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"}
+    {"text": "October ISM manufacturing PMI rises to 55.5, a 10th straight month of expansion, beating estimates of about 54.5", "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"},
+    {"text": "Dow closes up 0.4% at 51,984 as Nasdaq sheds 1.1% and S&P 500 slips 0.5% on a renewed rotation out of tech and AI-linked names", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"},
+    {"text": "Oil prices plunge about 7% as a draft proposal to end the US-Iran war circulates, with Brent sliding toward $105 a barrel", "url": "https://finance.yahoo.com/energy/articles/oil-prices-plunge-draft-proposal-143000962.html"},
+    {"text": "Apple beats Q4 estimates with record $114.5 billion revenue but shares slide in after-hours trading on a China shortfall and cautious holiday guidance, John Ternus's first earnings call as CEO", "url": "https://finance.yahoo.com/markets/stocks/article/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html"},
+    {"text": "Palantir revenue jumps 96% to $2.31 billion and tops estimates, raises full-year outlook, but new bookings growth slows to just 6%", "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-grows-revenue-96-deals-214440389.html"},
+    {"text": "Marvell shares plunge 13% after unveiling $115 billion all-stock acquisition of Lumentum to build out AI optical networking", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-220620660.html"},
+    {"text": "Micron falls 4% and Western Digital drops 5% as Kioxia's cautious December-quarter outlook rattles memory stocks", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-4-kioxia-cautious-185355108.html"}
   ]
 }
