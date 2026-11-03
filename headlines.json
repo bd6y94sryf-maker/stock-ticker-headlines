@@ -1,12 +1,12 @@
 {
   "date": "November 3, 2026",
   "headlines": [
-    {"text": "Wall Street braces for a muted Election Day reaction as traders say Fed policy and the AI trade matter more than the midterm result", "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"},
-    {"text": "Dow closes up 0.4% at 51,984 as Nasdaq sheds 1.1% and S&P 500 slips 0.5% on a renewed rotation out of tech and AI-linked names", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"},
-    {"text": "Oil prices plunge about 7% as a draft proposal to end the US-Iran war circulates, with Brent sliding toward $105 a barrel", "url": "https://finance.yahoo.com/energy/articles/oil-prices-plunge-draft-proposal-143000962.html"},
-    {"text": "Apple beats Q4 estimates with record $114.5 billion revenue but shares slide in after-hours trading on a China shortfall and cautious holiday guidance, John Ternus's first earnings call as CEO", "url": "https://finance.yahoo.com/markets/stocks/article/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html"},
-    {"text": "Palantir revenue jumps 96% to $2.31 billion and tops estimates, raises full-year outlook, but new bookings growth slows to just 6%", "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-grows-revenue-96-deals-214440389.html"},
-    {"text": "Marvell shares plunge 13% after unveiling $115 billion all-stock acquisition of Lumentum to build out AI optical networking", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-220620660.html"},
-    {"text": "Micron falls 4% and Western Digital drops 5% as Kioxia's cautious December-quarter outlook rattles memory stocks", "url": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-4-kioxia-cautious-185355108.html"}
+    {"text": "Oil rises toward $98 a barrel after reports of US strikes on Iran's Qeshm Island, reversing Monday's 7% plunge on hopes for a war-ending deal", "url": "https://www.cnbc.com/2026/11/03/oil-rises-after-report-of-us-strike-on-irans-qeshm-island.html"},
+    {"text": "Dow, S&P 500 and Nasdaq futures waver as Americans head to the polls in midterm elections that could reshape AI and crypto policy", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html"},
+    {"text": "Prediction market traders now put Democrats' odds of winning the Senate near 75%, with a sweep seen by JPMorgan as a risk for AI stocks", "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html"},
+    {"text": "Treasury yields climb, with the 10-year near 4.92%, as investors weigh the midterm vote, delayed jobs data and renewed Iran tensions", "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"},
+    {"text": "Apple shares extend their slide on a weak margin outlook while Palantir tumbles 8% in premarket trading as post-earnings selling deepens", "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"},
+    {"text": "Marvell shares stay under pressure from its $115 billion all-stock bid for Lumentum as investors question the AI optical networking push", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-2-220620660.html"},
+    {"text": "AMD reports third-quarter earnings after today's close, with data-center AI chip demand and full-year guidance the key swing factors", "url": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"}
   ]
 }
