@@ -1,11 +1,11 @@
 {
   "date": "November 3, 2026",
   "headlines": [
-    {"text": "Oil prices climb after the US reportedly strikes Iran's Qeshm Island overnight, reviving Mideast escalation fears a day before the midterms", "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"},
-    {"text": "Apple slides about 4% premarket on a margin outlook hit by rising memory-chip costs, while Palantir drops 6-8% despite beating estimates as contract growth slows", "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html"},
-    {"text": "Treasury yields climb, with the 10-year near 4.92%, as investors weigh the midterm vote, delayed jobs data and renewed Iran tensions", "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"},
+    {"text": "Treasury yields climb, with the 10-year near 4.92%, as investors weigh the midterm vote and renewed Iran tensions", "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"},
+    {"text": "Chip stocks rally intraday -- AMD up about 5%, Philly Semiconductor Index +3% -- as Wall Street awaits AMD's Q3 results due after today's close", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"},
+    {"text": "Apple falls about 2.5% and Palantir drops roughly 4% intraday even after both topped earnings estimates, as investors fret over margins and valuation", "url": "https://www.tipranks.com/news/futures-trade-mixed-with-u-s-midterm-elections-in-focus-apple-and-palantir-stocks-fall-on-earnings"},
     {"text": "Shopify tumbles roughly 15% and Dynatrace sinks 17% on disappointing results, while Grab jumps 10% after raising its full-year outlook", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html"},
-    {"text": "Prediction market traders now put Democrats' odds of winning the Senate near 75%, with a sweep seen by JPMorgan as a risk for AI stocks", "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html"},
-    {"text": "AMD rallies premarket ahead of Q3 results due after today's close, with CFO Jean Hu's data-center growth forecast the key number to watch", "url": "https://www.benzinga.com/markets/earnings/26/11/62807873/amd-q3-earnings-preview-jean-hu-data-center-sales-accelerate"}
+    {"text": "Oil prices climb after the US reportedly strikes Iran's Qeshm Island overnight, reviving Mideast escalation fears on US Election Day", "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"},
+    {"text": "Senate control is a razor-thin toss-up as midterm polls close, with prediction-market traders flipping between Democratic and Republican leads in the final hours", "url": "https://www.yahoo.com/news/articles/traders-flip-senate-control-bet-031157694.html"}
   ]
 }
