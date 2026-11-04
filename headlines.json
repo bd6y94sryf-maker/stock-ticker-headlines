@@ -1,12 +1,11 @@
 {
   "date": "November 4, 2026",
   "headlines": [
-    {"text": "Democrats flip both the House and Senate in a historic midterm blue wave, reshaping the outlook for divided government", "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"},
-    {"text": "Trump Media plunges 11% and Tesla, SpaceX slide roughly 4-6% as Musk-backed candidates suffer big midterm losses", "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html"},
-    {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, guiding Q4 revenue to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
-    {"text": "Oil extends gains on lingering Iran war uncertainty even as Trump's Republicans face a midterm election rout", "url": "https://www.cnbc.com/2026/11/04/oil-us-midterm-election-results.html"},
+    {"text": "Dow surges over 1,100 points, S&P 500 and Nasdaq jump as Democrats' sweep of Congress eases political uncertainty on Wall Street", "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"},
+    {"text": "Trump Media plunges 11% and Tesla, SpaceX slide as Musk-backed candidates suffer big midterm losses", "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html"},
+    {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, guides Q4 revenue to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
     {"text": "Novo Nordisk jumps 6% as Wegovy pill sales blow past estimates, prompting the drugmaker to raise its 2026 outlook", "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"},
-    {"text": "McDonald's tops profit estimates but US same-store sales dip 0.2% as domestic traffic keeps sliding", "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html"},
-    {"text": "AI and data-center stocks trade mixed as Democratic wins in key hubs like Texas stoke fears of new moratoriums; CoreWeave slips, Nebius gains", "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"}
+    {"text": "McDonald's beats on EPS but revenue and US same-store sales disappoint as domestic traffic keeps sliding", "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-nyse-mcd-misses-q3-122045718.html"},
+    {"text": "Oil ticks up on lingering Iran war risk even as Democrats' midterm sweep removes a layer of political uncertainty", "url": "https://www.cnbc.com/2026/11/04/oil-us-midterm-election-results.html"}
   ]
 }
