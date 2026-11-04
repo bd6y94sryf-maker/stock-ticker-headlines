@@ -1,11 +1,10 @@
 {
-  "date": "November 3, 2026",
+  "date": "November 4, 2026",
   "headlines": [
-    {"text": "S&P 500 climbs 0.36% and Nasdaq gains 0.83% on a chip-stock rally while the Dow slips about 0.4% as Apple's margin warning weighs", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"},
-    {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, and guides Q4 revenue above Wall Street estimates to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
-    {"text": "Apple falls about 2.5% and Palantir drops roughly 4% intraday even after both topped earnings estimates, as investors fret over margins and valuation", "url": "https://www.tipranks.com/news/futures-trade-mixed-with-u-s-midterm-elections-in-focus-apple-and-palantir-stocks-fall-on-earnings"},
-    {"text": "Shopify tumbles roughly 15% and Dynatrace sinks 17% on disappointing results, while Grab jumps 10% after raising its full-year outlook", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html"},
-    {"text": "Oil prices climb after the US reportedly strikes Iran's Qeshm Island overnight, reviving Mideast escalation fears on US Election Day", "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"},
-    {"text": "Senate control is a razor-thin toss-up as midterm polls close, with prediction-market traders flipping between Democratic and Republican leads in the final hours", "url": "https://www.yahoo.com/news/articles/traders-flip-senate-control-bet-031157694.html"}
+    {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, guiding Q4 revenue to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
+    {"text": "Democrat Jon Ossoff wins reelection in Georgia's Senate race as midterm results roll in, with CNBC calling House control 'leans' Democratic", "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"},
+    {"text": "Dow futures plunge over 300 points, Apple shares sink, and oil prices jump after fresh US strikes on Iran's Qeshm Island", "url": "https://247wallst.com/investing/2026/11/03/stock-market-today-dow-futures-plunge-323-points-apple-sinks-and-iran-strikes-send-oil-soaring/"},
+    {"text": "S&P 500 and Nasdaq futures edge higher overnight as Wall Street awaits final midterm results and digests fresh tech earnings", "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results"},
+    {"text": "Shopify tumbles roughly 15% and Dynatrace sinks 17% on disappointing results, while Grab jumps 10% after raising its full-year outlook", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html"}
   ]
 }
