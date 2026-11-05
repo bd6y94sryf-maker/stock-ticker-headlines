@@ -1,12 +1,11 @@
 {
   "date": "November 5, 2026",
   "headlines": [
-    {"text": "Dow closes up 3.03% at 53,356.12 in its best day since April 2025, S&P 500 and Nasdaq also rally as Democrats' sweep of Congress eases Washington policy uncertainty", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html"},
-    {"text": "Nvidia, Micron and Tesla tumble while Microsoft and Apple hit record highs as Democrats' midterm sweep stirs fears of new data-center regulation", "url": "https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html"},
-    {"text": "ADP: private employers added 86,000 jobs in October, topping forecasts, ahead of Friday's delayed official jobs report", "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"},
-    {"text": "Oil prices sink roughly 7% as Democrats' midterm sweep of Congress removes a layer of Washington policy risk", "url": "https://www.cnbc.com/2026/11/04/oil-us-midterm-election-results.html"},
+    {"text": "Dow, S&P 500 and Nasdaq trade mixed as the post-election relief rally cools and oil extends its slide", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html"},
+    {"text": "Dow Jones and S&P 500 futures trade mixed after the post-midterm rally, with Toyota, Arm and Qualcomm earnings in focus", "url": "https://www.benzinga.com/markets/equities/26/11/62906643/stock-market-today-dow-jones-sp-500-futures-trade-mixed-after-post-midterm-rally-tm-arm-qcom-in-focus"},
     {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, guides Q4 revenue to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
     {"text": "Qualcomm shares slide after hours despite an in-line fiscal Q4 beat, as weak fiscal Q1 revenue guidance overshadows the results", "url": "https://www.streetinsider.com/Hot+List/After-Hours+Movers:+QCOM,+COHR,+APP,+HUBS,+SNAP,+FSLY,+FIG,+ZG,+BROS,+CDE/27291387.html"},
-    {"text": "Snap shares sink more than 10% after hours on a third-quarter revenue and daily-active-user miss", "url": "https://cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html"}
+    {"text": "Snap shares sink more than 10% after hours on a third-quarter revenue and daily-active-user miss", "url": "https://cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html"},
+    {"text": "ADP: private employers added 86,000 jobs in October, topping forecasts, ahead of the delayed official jobs report", "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html"}
   ]
 }
