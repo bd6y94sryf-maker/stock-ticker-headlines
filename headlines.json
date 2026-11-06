@@ -1,10 +1,10 @@
 {
   "date": "November 6, 2026",
   "headlines": [
-    {"text": "Nasdaq snaps three-day losing streak and Tesla hits a record as October jobs report beats estimates despite unemployment rate rising", "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-as-jobs-report-beats-estimates-unemployment-rate-rises-230828624.html"},
-    {"text": "Chip stocks rebound sharply as Nvidia climbs 3.6% and AMD surges as much as 8.3% premarket following Thursday's brutal AI-driven selloff", "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-rebound-sharply-after-thursdays-brutal-selloff-5007137"},
+    {"text": "October payrolls blow past forecasts, adding 165,000 jobs as unemployment rate falls to 4.1%", "url": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case"},
+    {"text": "Traders ramp up bets for a Fed rate hike at the December meeting after the blockbuster jobs report, with odds near 80%", "url": "https://www.investing.com/news/economy-news/traders-raise-bets-of-fed-rate-hike-after-jobs-report-5008229"},
+    {"text": "Nasdaq rebounds from Thursday's AI-driven selloff while Dow and S&P 500 wobble following the hot jobs data", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"},
     {"text": "Moderna shares surge after Q3 beat as drugmaker raises 2026 revenue growth guidance to 15%-25%, up from prior outlook of up to 10%", "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html"},
-    {"text": "Airbnb shares jump 11.7% after Q3 revenue and profit beat estimates, as the board authorizes a new $12 billion buyback", "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-nasdaq-abnb-surprises-q3-220615975.html"},
-    {"text": "Dow futures sink roughly 475 points as Nvidia, Micron and AMD lead the chip-stock recovery from Thursday's AI-driven rout", "url": "https://www.inkl.com/news/us-stock-market-today-dow-futures-fall-475-points-as-s-p-500-and-nasdaq-futures-rebound-nvidia-micron-and-amd-lead-chip-recovery-after-3-trillion-ai-driven-wall-street-selloff"}
+    {"text": "Airbnb shares jump 11.7% after Q3 revenue and profit beat estimates, as the board authorizes a new $12 billion buyback", "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-nasdaq-abnb-surprises-q3-220615975.html"}
   ]
 }
