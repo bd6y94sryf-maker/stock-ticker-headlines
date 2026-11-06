@@ -1,11 +1,10 @@
 {
-  "date": "November 5, 2026",
+  "date": "November 6, 2026",
   "headlines": [
-    {"text": "S&P 500 tumbles 4.4% in its worst day since April 2025 as Magnificent Seven stocks lose about $1 trillion in value", "url": "https://cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html"},
-    {"text": "Dow sinks 1,833 points and Nasdaq drops 5.5% into correction as fears of AI data-center regulation grow after Democrats' midterm sweep", "url": "https://www.cbc.ca/news/business/ai-stocks-markets-9.7411079"},
-    {"text": "Nvidia falls more than 9% and turns negative for the year, AMD plunges about 17% as the AI data-center selloff deepens", "url": "https://www.fool.com/investing/2026/11/05/the-ai-selloff-is-getting-worse-nvidia-dell-and-data-center-stocks-are-plunging-hard-is-it-time-to-buy-the-dip/"},
-    {"text": "US weekly jobless claims fall to 189,000, matching a 57-year low and beating the roughly 196,000 expected", "url": "https://kelo.com/2026/11/05/us-weekly-jobless-claims-at-57-year-lows-amid-low-layoffs/"},
-    {"text": "AMD posts record $13.38 billion Q3 revenue as data-center sales nearly double on AI chip demand, guides Q4 revenue to about $17 billion", "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"},
-    {"text": "Qualcomm and Arm shares slide after hours despite in-line beats, as weak handset guidance overshadows the results", "url": "https://www.streetinsider.com/Hot+List/After-Hours+Movers:+QCOM,+COH,+APP,+HUBS,+SNAP,+FSLY,+FIG,+ZG,+BROS,+CDE/27291387.html"}
+    {"text": "Nasdaq snaps three-day losing streak and Tesla hits a record as October jobs report beats estimates despite unemployment rate rising", "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-as-jobs-report-beats-estimates-unemployment-rate-rises-230828624.html"},
+    {"text": "Chip stocks rebound sharply as Nvidia climbs 3.6% and AMD surges as much as 8.3% premarket following Thursday's brutal AI-driven selloff", "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-rebound-sharply-after-thursdays-brutal-selloff-5007137"},
+    {"text": "ADP private payrolls beat forecasts with 86,000 jobs added versus 69,000 expected, signaling labor-market resilience ahead of the jobs report", "url": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-pick-up-in-october-202611060930"},
+    {"text": "Airbnb shares jump 11.7% after Q3 revenue and profit beat estimates, as the board authorizes a new $12 billion buyback", "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-nasdaq-abnb-surprises-q3-220615975.html"},
+    {"text": "Nasdaq futures rise premarket as chip stocks stabilize following the steep AI-driven tech selloff", "url": "https://finance.yahoo.com/technology/ai/articles/nasdaq-futures-rise-steep-ai-094400237.html"}
   ]
 }
