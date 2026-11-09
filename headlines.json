@@ -1,11 +1,11 @@
 {
   "date": "November 9, 2026",
   "headlines": [
-    {"text": "Dow, S&P 500 and Nasdaq surge more than 2% as AI and chip stocks lead a sharp rebound from last week's selloff", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"},
-    {"text": "Nvidia bucks the rally and keeps sliding as the board's independent probe into Jensen Huang's alleged ties to a Chinese spy deepens", "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html"},
+    {"text": "Dow, S&P 500 and Nasdaq surge as AI and chip stocks lead a sharp rebound from last week's selloff", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"},
+    {"text": "Nvidia stock slides as its board launches an independent probe into Jensen Huang's affair with an alleged Chinese spy", "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"},
     {"text": "House GOP chairs press Huang for a closed-door Nov. 18 briefing on his ties to an alleged Chinese spy tied to Nvidia customer Megaspeed", "url": "https://dnyuz.com/2026/11/05/house-g-o-p-leaders-ask-nvidias-huang-to-speak-in-closed-door-briefing/"},
-    {"text": "Huang apologizes to Nvidia staff for the affair and will stay on as CEO while an independent board committee investigates", "url": "https://finance.yahoo.com/technology/articles/nvidia-ceo-jensen-huang-admits-220726255.html"},
-    {"text": "Wall Street braces for Tuesday's October CPI report, the last major inflation reading before the Fed's December 9 rate decision", "url": "https://fxnx.com/en/blog/us-cpi-10-november-2026-release-time-what-measures"},
-    {"text": "October jobs report blew past expectations with 165K payrolls added, fueling Monday's risk-on rally even as unemployment held at 4.1%", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-130935908.html"}
+    {"text": "Markets brace for Tuesday's October CPI, the last big inflation read before the Fed's Dec. 9 meeting, with traders pricing over 80% odds of a hike", "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"},
+    {"text": "October payrolls blew past forecasts with 165K jobs added as unemployment fell to 4.1%, fueling Monday's risk-on rally", "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-130935908.html"},
+    {"text": "Treasury yields hold steady as investors brace for Tuesday's inflation data and the Fed's rate path", "url": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html"}
   ]
 }
