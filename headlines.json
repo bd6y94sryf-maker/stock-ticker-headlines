@@ -1,10 +1,11 @@
 {
-  "date": "November 6, 2026",
+  "date": "November 9, 2026",
   "headlines": [
-    {"text": "October payrolls blow past forecasts, adding 165,000 jobs as unemployment rate falls to 4.1%", "url": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case"},
-    {"text": "Traders ramp up bets for a Fed rate hike at the December meeting after the blockbuster jobs report, with odds near 80%", "url": "https://www.investing.com/news/economy-news/traders-raise-bets-of-fed-rate-hike-after-jobs-report-5008229"},
-    {"text": "Nasdaq closes up 1.1% at 24,579 and S&P 500 adds 0.3%, but Dow slips 0.5% to cap a bruising week for AI stocks", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"},
-    {"text": "Moderna shares surge after Q3 beat as drugmaker raises 2026 revenue growth guidance to 15%-25%, up from prior outlook of up to 10%", "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html"},
-    {"text": "Airbnb shares jump 11.7% after Q3 revenue and profit beat estimates, as the board authorizes a new $12 billion buyback", "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-nasdaq-abnb-surprises-q3-220615975.html"}
+    {"text": "Fed's December rate-hike odds hold near 84% after Warsh's hawkish tone, with Cook and Hammack pushing for an immediate hike", "url": "https://longbridge.com/en/news/303443604"},
+    {"text": "Investors brace for Tuesday's October CPI report, seen as the last major data point before the Fed's December 9 decision", "url": "https://fxnx.com/en/blog/us-cpi-10-november-2026-release-time-what-measures"},
+    {"text": "October payrolls blew past forecasts with 165,000 jobs added and unemployment falling to 4.1%, cementing the case for a Fed hike", "url": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case"},
+    {"text": "S&P 500 climbs 0.81% as chip stocks rebound from the Nasdaq's AI-spending-driven correction", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/s-amp-p-500-rises-0-81-as-chip-stocks-rebound/70471690"},
+    {"text": "Oil tumbles more than 7% as Iran signals openness to peace talks, easing fears of a wider Middle East supply disruption", "url": "https://www.nationthailand.com/news/world/40073041"},
+    {"text": "Brookfield and CPP Investments close $5.2 billion all-cash acquisition of LXP Industrial Trust", "url": "https://bam.brookfield.com/press-releases/brookfield-and-cpp-investments-complete-acquisition-lxp-industrial-trust"}
   ]
 }
