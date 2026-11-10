@@ -1,10 +1,11 @@
 {
   "date": "November 10, 2026",
   "headlines": [
-    {"text": "October CPI runs hotter than expected: headline inflation up 0.4%, core up 0.3% for a third straight month, hitting the threshold Fed's Waller set for weighing a 50-basis-point December rate hike", "url": "https://www.stocktitan.net/articles/october-2026-cpi-inflation-report"},
-    {"text": "Nvidia and CEO Jensen Huang hit with federal shareholder lawsuit alleging failure to disclose his ties to an alleged Chinese spy", "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-shareholder-lawsuit-affair-chinese-spy/"},
-    {"text": "Nvidia's China ties draw fresh congressional scrutiny as fallout from the Huang affair widens", "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"},
+    {"text": "October CPI runs hot: core inflation up 0.3% for a third straight month, pushing Fed December rate-hike odds to roughly 85%", "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"},
+    {"text": "Nvidia and CEO Jensen Huang hit with shareholder lawsuit alleging investors were misled about his affair with an accused Chinese spy", "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-shareholder-lawsuit-affair-chinese-spy/"},
+    {"text": "Oil prices sink, Brent below $90, as Trump says the Iran war could end 'fairly soon'", "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"},
     {"text": "AST SpaceMobile shares sink roughly 12% premarket after a Q3 earnings miss and a sharply higher capex outlook of $575-650M", "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-shares-sink-earnings-165255368.html"},
-    {"text": "Homebuilders extend their rally, with NVR jumping more than 26%, after Democrats won control of the Senate and House in the midterm elections", "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html"}
+    {"text": "Dow and S&P 500 slip in early Tuesday trading as the hot CPI reading fuels Fed rate-hike bets", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"},
+    {"text": "Homebuilders extend their rally, with NVR jumping more than 26%, after Democrats won control of the Senate and House in the midterms", "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html"}
   ]
 }
