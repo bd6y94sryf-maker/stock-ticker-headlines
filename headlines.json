@@ -1,11 +1,10 @@
 {
   "date": "November 13, 2026",
   "headlines": [
-    {"text": "Fed December rate-hike odds near 90%, with even a 50bp move in play, after hot CPI and Gov. Waller remarks; 10-year yield holds near 5%", "url": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585"},
-    {"text": "Senate Banking Chair Tim Scott asks ousted Nvidia CEO Jensen Huang and Commerce Secretary Lutnick to testify in December", "url": "https://uk.investing.com/news/economy-news/huang-ouster-fallout-cisco-applied-materials-outlooks--whats-moving-markets-4980071"},
-    {"text": "Nvidia board launches permanent CEO search with CFO Colette Kress serving as interim chief ahead of Nov. 17 earnings", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
-    {"text": "Cisco raises FY guidance and tops estimates, but shares slip after-hours as order growth cools to 21% from 35%", "url": "https://finance.yahoo.com/markets/stocks/articles/huang-ouster-fallout-cisco-applied-093548568.html"},
-    {"text": "Applied Materials guides above Street view as CEO calls 2027 'another record year' for AI-driven chip-equipment demand", "url": "https://ca.investing.com/news/economy-news/huang-ouster-fallout-cisco-applied-materials-outlooks--whats-moving-markets-4955900"},
-    {"text": "Nebius shares plunge more than 17% after cutting revenue guidance to the low end of its range, fueling Michael Burry's AI chip-glut warning", "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vindicated-nebius-stock-101500036.html"}
+    {"text": "Nvidia CEO Jensen Huang resigns effective immediately amid foreign-intelligence probe; board taps CFO Colette Kress as interim chief", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
+    {"text": "Nvidia shares close down more than 4% as Wall Street digests Huang's abrupt exit ahead of Nov. 17 earnings", "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"},
+    {"text": "Citi cuts Nvidia price target to $200 from $210, citing rising competition in wake of the leadership shakeup", "url": "https://www.tipranks.com/news/the-fly/nvidia-price-target-lowered-to-200-from-210-at-citi-thefly"},
+    {"text": "Fed's Waller says a 50bp December hike should be on the table if core CPI stays hot, after this week's stronger-than-expected inflation data", "url": "https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/"},
+    {"text": "Wall Street futures slip as investors weigh Nvidia fallout and brace for today's October PPI report", "url": "https://www.fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719"}
   ]
 }
