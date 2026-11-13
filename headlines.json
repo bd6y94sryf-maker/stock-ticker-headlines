@@ -1,11 +1,12 @@
 {
-  "date": "November 12, 2026",
+  "date": "November 13, 2026",
   "headlines": [
-    {"text": "Nvidia board ousts Jensen Huang as CEO effective immediately; CFO Colette Kress named interim CEO, Harvey Jones becomes first independent board chair", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
-    {"text": "Dow, S&P 500 and Nasdaq close lower as Treasury yields hit 5.10% and Nvidia's leadership shakeup rattles tech", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"},
-    {"text": "Trump calls Huang affair saga a \"horrible thing,\" says it's \"so sad to see\"", "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"},
+    {"text": "Nvidia closes down 4.3% to $166.19 as Huang exit keeps slamming AI stocks; AMD, Broadcom jump nearly 6% as capital rotates out of NVDA", "url": "https://www.techflowpost.com/en-US/article/35340"},
+    {"text": "10-year Treasury yield jumps to 5.13% as traders price in a near-certain December Fed rate hike, dragging S&P 500 and Nasdaq lower", "url": "https://www.marketindex.com.au/news/asx-200-live-today-friday-13th-november"},
+    {"text": "New allegations of a third extramarital affair emerge against ousted Nvidia CEO Jensen Huang", "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"},
+    {"text": "AI-regulation fears mount after Democratic sweep in US midterms, adding to pressure on tech shares", "url": "https://www.businesstoday.com.my/2026/11/13/us-stocks-retreat-as-huang-exit-weighs-on-nvidia-and-ai-shares/"},
+    {"text": "Nvidia board launches search for permanent CEO, weighing internal and external candidates, as Colette Kress steers the company through crisis", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
     {"text": "Nvidia set to report Q3 fiscal 2027 earnings Nov. 17, its first results since Huang's abrupt exit", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"},
-    {"text": "House Republicans request closed-door briefing from Huang on Nov. 18 over his ties to Megaspeed and Nvidia's security protocols", "url": "https://implicator.ai/gop-leaders-three-house-committees-ask-jensen-huang-closed"},
-    {"text": "Fed's Warsh keeps December rate-hike odds alive near 85% as core inflation stays hot", "url": "https://www.webull.com/news/15827591561765888"}
+    {"text": "House Republicans request closed-door briefing from Huang on Nov. 18 over his ties to Megaspeed and Nvidia's security protocols", "url": "https://implicator.ai/gop-leaders-three-house-committees-ask-jensen-huang-closed"}
   ]
 }
