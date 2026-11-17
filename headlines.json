@@ -1,12 +1,11 @@
 {
-  "date": "November 16, 2026",
+  "date": "November 17, 2026",
   "headlines": [
-    {"text": "Dow sinks 739 points and Nasdaq drops 2.5% as Nvidia leadership turmoil extends Wall Street's AI-led slide to a third session", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"},
-    {"text": "Nvidia set to report first earnings since Jensen Huang's ouster Tuesday after the close, with Wall Street eyeing a $108B revenue guide", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"},
-    {"text": "Nvidia's board accepts Jensen Huang's resignation as CEO and director, names CFO Colette Kress interim chief while it searches for a successor", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
+    {"text": "Fed's October FOMC minutes, due out Wednesday, expected to show a divided committee doubtful of a December rate cut", "url": "https://continuumeconomics.com/a/90866262/fomc-minutes-from-october-29-to-reinforce-doubts-over-a-december-move"},
+    {"text": "Nvidia reports first earnings since Jensen Huang's ouster after today's close, with Wall Street eyeing a $108B revenue guide and the biggest options-implied swing in two years", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"},
+    {"text": "Wall Street futures slide again as investors brace for Nvidia's earnings and Anthropic's looming Nasdaq debut", "url": "https://www.proactiveinvestors.com/companies/news/1101797/markets-live-wall-street-futures-fall-ahead-of-nvidia-results-1101797.html"},
+    {"text": "Nvidia's board accepted Jensen Huang's resignation as CEO and director following reports of an affair with an alleged Chinese spy, naming CFO Colette Kress interim chief", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
     {"text": "DOJ opens criminal probe into Megaspeed's alleged Nvidia chip diversion to China after Commerce paused its own inquiry following Nvidia's outreach", "url": "https://www.roic.ai/news/nvidia-intervention-preceded-halt-of-us-chip-smuggling-probe-11-09-2026"},
-    {"text": "House Democrats demand Commerce Secretary Lutnick disclose by Dec. 1 what officials knew about Megaspeed's Beijing ties and Blackwell chip approvals", "url": "https://amo.house.gov/sites/evo-subsites/amo.house.gov/files/evo-media-document/congressional-letter-on-nvidia-ai-chips.pdf"},
-    {"text": "Anthropic sets IPO price range at $70-$78 a share, targeting Nasdaq debut under 'ANT' Thursday, Nov. 19", "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"},
-    {"text": "Fed's October FOMC minutes, due out Wednesday, expected to show a divided committee doubtful of a December rate cut", "url": "https://continuumeconomics.com/a/90866262/fomc-minutes-from-october-29-to-reinforce-doubts-over-a-december-move"}
+    {"text": "Anthropic sets IPO price range at $70-$78 a share, valuing the AI firm up to $1.4 trillion ahead of its planned Thursday Nasdaq debut under 'ANT'", "url": "https://abc7.com/story/anthropic-seeks-70-78-share-new-ipo-filing-values-13-trillion/20029820/"}
   ]
 }
