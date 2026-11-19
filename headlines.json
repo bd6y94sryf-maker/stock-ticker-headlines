@@ -1,11 +1,12 @@
 {
-  "date": "November 18, 2026",
+  "date": "November 19, 2026",
   "headlines": [
-    {"text": "Fed's Oct. 28 minutes show Waller open to a 50bp December hike if inflation stays hot, with most officials still seeing another rate rise likely this year after the Fed held at 3.75%-4.00% in a 10-2 vote", "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"},
-    {"text": "Dow sheds ~561 points (-1.1%) to 50,198 and Nvidia slides a fifth straight session as Wall Street braces for Anthropic's blockbuster Nasdaq debut; Nasdaq edges up 0.4%", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"},
-    {"text": "Anthropic prices its IPO at $83/share, above its $70-$78 range, setting up a record ~$94B stock sale and ~$1.5T valuation ahead of Thursday's Nasdaq debut as ANT", "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"},
-    {"text": "Nvidia posts blowout Q3 revenue of $115.8B (+103% YoY) but shares fall for a fifth session as investors digest interim CEO Colette Kress's first earnings call since Jensen Huang's abrupt resignation", "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html"},
-    {"text": "Target's Q3 comparable sales jump 5.6% with adjusted EPS of $2.65 (boosted ~$0.50 by a one-time tariff refund) as turnaround accelerates; retailer raises full-year sales growth outlook to ~6%", "url": "https://finance.yahoo.com/markets/stocks/article/target-earnings-squash-estimates-as-inflation-weary-shoppers-see-great-deals-113326641.html"},
-    {"text": "Lowe's Q3 sales rise to $22.8B with comps up 1.8% — a sixth straight quarter of positive comps — as adjusted EPS climbs to $3.10; retailer lifts full-year sales outlook to ~$92.5B", "url": "https://finance.yahoo.com/markets/stocks/articles/lowes-reports-third-quarter-2026-110000995.html"}
+    {"text": "Fed's Oct. 28 minutes show Waller open to a 50bp December hike if inflation stays hot, with most officials seeing another rate rise likely before year-end", "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"},
+    {"text": "Nasdaq Composite slides into correction territory, down ~11% from its high, as traders price in a December Fed rate hike instead of a cut", "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-correction-traders-pricing-december-175102246.html"},
+    {"text": "Anthropic prices record $81.3B IPO at $83/share, above its $70-$78 range, ahead of Thursday's Nasdaq debut under ticker ANT", "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"},
+    {"text": "Nasdaq-100 futures jump as Wall Street braces for Anthropic's blockbuster Nasdaq debut", "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"},
+    {"text": "Nvidia posts blowout Q3 revenue of $115.8B (+103% YoY) but shares fall for a fifth session as interim CEO Colette Kress stumbles through her first earnings call since Jensen Huang's abrupt resignation", "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html"},
+    {"text": "Trump, Xi and Putin hold first-ever trilateral summit in Shenzhen on the sidelines of APEC, with Iran and nuclear arms on the agenda", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"},
+    {"text": "Walmart set to report Q3 earnings before Thursday's open, with Wall Street watching for another guidance raise", "url": "https://finviz.com/news/421667/walmart-to-host-third-quarter-earnings-conference-call-november-19-2026"}
   ]
 }
