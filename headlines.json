@@ -1,11 +1,11 @@
 {
   "date": "November 20, 2026",
   "headlines": [
-    {"text": "Dow sinks to 49,097.06 (-2.19%) and S&P 500 posts its sixth straight loss to 7,175.83, the worst weekly stretch since April 2025, as Anthropic's IPO pop fails to revive the AI trade", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
-    {"text": "Nvidia tops Q3 estimates with $115.8B revenue (+103% YoY) and strong Q4 guidance, but shares slide anew as the board confirms it won't reinstate ousted CEO Jensen Huang", "url": "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804"},
-    {"text": "Trump, Xi and Putin conclude their historic APEC trilateral in Shenzhen with a joint declaration on nuclear-risk reduction, UN reform and boosting oil output — but no mention of Ukraine", "url": "https://www.cbc.ca/news/world/trump-xi-putin-apec-meeting-9.7427718"},
-    {"text": "Fed's Oct. 28 minutes show almost all officials favoring further rate hikes, with Waller alone pushing for a supersized 50bp move at the December meeting", "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"},
-    {"text": "Initial jobless claims rise to 203,000 for the week ending Nov. 14, above the ~197K-208K consensus range, as the four-week average ticks up to 197,750", "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-rose-to-203k-last-week-202611191337"},
-    {"text": "Walmart tops Q3 estimates with $188.8B in revenue and $0.65 adjusted EPS, raising its full-year outlook on strength from affluent shoppers", "url": "https://finance.biggo.com/news/462fcfe0-7cf8-4cdf-b251-332c42101b59"}
+    {"text": "AI-stock selloff deepens Friday as chip names tumble worldwide before the US open, with Nvidia, AMD and freshly-listed Anthropic (ANT) all sliding premarket", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"},
+    {"text": "AMD shares slump again premarket after a short seller alleges the chipmaker has its own 'China problem'", "url": "https://forbesmiddleeast.com/money/markets/nvidia-rival-amd-shares-slump-again-after-short-seller-says-it-has-its-own-china-problem"},
+    {"text": "Nvidia slides to a fresh 52-week low as AI-trade jitters persist, a day after its Q3 beat failed to halt the stock's slide", "url": "https://finance.biggo.com/news/d51d601d-07e7-45ae-9ebd-06333cbde3b1"},
+    {"text": "Dow closes below 50,000 and Nasdaq falls 2.25% as S&P 500 posts a sixth straight loss, its worst weekly stretch since April 2025", "url": "https://en.bloomingbit.io/feed/news/124827"},
+    {"text": "Initial jobless claims rise to 203,000 for the week ending Nov. 14, above the ~197K-208K consensus range", "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-rose-to-203k-last-week-202611191337"},
+    {"text": "Trump, Xi and Putin conclude their APEC trilateral in Shenzhen with a joint declaration on nuclear-risk reduction, UN reform and boosting oil output — but no mention of Ukraine", "url": "https://www.cbc.ca/news/world/trump-xi-putin-apec-meeting-9.7427718"}
   ]
 }
