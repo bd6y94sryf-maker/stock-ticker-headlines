@@ -1,11 +1,10 @@
 {
   "date": "November 23, 2026",
   "headlines": [
-    {"text": "Nasdaq 100 futures surge nearly 3% as Wall Street tries to claw back from last week's correction-territory selloff", "url": "https://invezz.com/news/2026/11/23/us-stock-futures-today-nvidia-ai-rebound-fed-november-23/"},
-    {"text": "CrowdStrike agrees to buy Zscaler for $43.9 billion in an all-stock deal, the biggest acquisition in cybersecurity history", "url": "https://cybermagazine.com/news/crowdstrike-acquires-zscaler-for-us-43-9bn-largest-sedeal"},
-    {"text": "Nvidia's board reaffirms it has no plans to reinstate Jensen Huang as CEO even as the China espionage probe into him widens", "url": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo"},
-    {"text": "Trump pushes for Nvidia's board to bring Jensen Huang back as CEO despite the widening spy-affair investigation", "url": "https://fortune.com/2026/11/23/trump-wants-jensen-huang-back-at-nvidia-despite-widening-china-spy-probe/"},
-    {"text": "Traders see a Fed rate hike as the likely call at the December 9-10 FOMC meeting after a stronger-than-expected October jobs report", "url": "https://www.kitco.com/news/off-the-wire/2026-11-06/fed-seen-sticking-december-rate-hike-after-jobs-data"},
-    {"text": "Dell, Workday and HP headline a holiday-shortened earnings week, all reporting Tuesday with Dell's AI server backlog in focus", "url": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"}
+    {"text": "Nvidia's board reverses course and reinstates Jensen Huang as President and CEO effective immediately after pressure from Trump", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"},
+    {"text": "Nvidia shares skyrocket as much as 30% on Huang's return, powering a broad Dow, S&P 500 and Nasdaq rebound from last week's correction", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"},
+    {"text": "CrowdStrike agrees to buy Zscaler for $43.9 billion in an all-stock deal, the largest acquisition in cybersecurity history", "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"},
+    {"text": "Traders keep pricing in a quarter-point Fed rate hike at the December 9-10 FOMC meeting after sticky inflation and hot jobs data", "url": "https://www.kitco.com/news/off-the-wire/2026-11-06/fed-seen-sticking-december-rate-hike-after-jobs-data"},
+    {"text": "Dell, Workday and HP headline a holiday-shortened earnings week, all reporting Tuesday with Dell's AI server backlog in focus", "url": "https://www.barchart.com/story/news/35728832/earnings-preview-what-to-expect-from-dell-technologies-report"}
   ]
 }
