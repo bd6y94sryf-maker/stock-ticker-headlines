@@ -1,11 +1,10 @@
 {
-  "date": "November 20, 2026",
+  "date": "November 23, 2026",
   "headlines": [
-    {"text": "Initial jobless claims rise to 203,000 for the week ending Nov. 14, above the ~197K-208K consensus range", "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-rose-to-203k-last-week-202611191337"},
-    {"text": "S&P 500 and Dow confirm a correction, over 10% below record highs, as the AI-stock rout extends to a seventh straight losing session, the longest skid since February 2020", "url": "https://www.staradvertiser.com/2026/11/20/breaking-news/wall-street-rout-pushes-sp-500-dow-into-correction/"},
-    {"text": "Nvidia shares tumble further after WSJ reports SEC is probing whether disclosures misled investors following Jensen Huang's exit", "url": "https://www.tweaktown.com/news/114760/sec-opens-investigation-into-nvidia-over-whether-investors-were-misled-to-boost-earnings/index.html"},
-    {"text": "Nasdaq wipes out its 2026 gains as Anthropic's rocky second day of Nasdaq trading fails to calm Wall Street's AI-valuation fears", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"},
-    {"text": "AMD and Micron lead a brutal semiconductor sell-off as the Nasdaq plunges nearly 3% intraday", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/"},
-    {"text": "Trump says ousted Nvidia CEO Jensen Huang made 'bad decisions' on selling older chips to China", "url": "https://www.benzinga.com/news/politics/26/11/63499482/trump-jensen-huang-bad-decisions-china-older-chips"}
+    {"text": "Dow, S&P 500 and Nasdaq futures surge in a relief rally as Wall Street tries to claw back from last week's correction", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"},
+    {"text": "Nvidia rockets as much as 9.7% premarket after Trump renews his push to reinstate Jensen Huang as CEO", "url": "https://invezz.com/news/2026/11/23/us-stock-futures-today-nvidia-ai-rebound-fed-november-23/"},
+    {"text": "Nasdaq 100 futures rip as much as 6% as AI stocks attempt to bounce back from their worst week since the 2020 pandemic crash", "url": "https://finance.yahoo.com/markets/stocks/articles/green-week-ahead-nvidia-futures-060000363.html"},
+    {"text": "Nvidia's board has already ruled out reinstating Jensen Huang, leaving interim CEO Colette Kress running the chipmaker", "url": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo"},
+    {"text": "Zoom kicks off a Thanksgiving-week earnings slate after Monday's close, with Dell, Workday and HP set to report Tuesday", "url": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"}
   ]
 }
