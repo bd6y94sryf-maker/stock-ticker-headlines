@@ -1,11 +1,10 @@
 {
   "date": "November 24, 2026",
   "headlines": [
-    {"text": "Nvidia shares tumble as much as 5% premarket, giving back part of Monday's record 31% surge, as Wall Street questions the durability of the AI trade", "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-falls-after-epic-rally-on-jensen-huangs-return-as-ceo-094535877.html"},
-    {"text": "Dow, S&P 500 and Nasdaq futures slide as investors test whether the Nvidia-fueled rally has further to run", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"},
+    {"text": "Dow holds near flat but S&P 500 and Nasdaq extend losses as chip stocks tumble, testing whether Monday's Nvidia-fueled rally has further to run", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
     {"text": "Treasury's Bessent unveils fresh Iran sanctions targeting shadow-banking network as tankers reportedly hit mines in the Strait of Hormuz", "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"},
     {"text": "HPE shares sink more than 10% premarket despite topping Q4 estimates, adding to doubts about AI-infrastructure spending", "url": "https://www.benzinga.com/markets/equities/26/11/63569914/stock-market-today-dow-sp-500-futures-fall-after-scott-bessent-unveils-fresh-iran-sanctions-hormuz-warnings-hpe-smtc-dell-in-focus"},
-    {"text": "Fed's Waller signals support for a December rate hike, open to a half-point move if inflation stays hot", "url": "https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/"},
+    {"text": "Fed's Waller doubles down on call for a December rate hike, says a half-point move may be needed if inflation stays hot", "url": "https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/"},
     {"text": "CrowdStrike agrees to buy Zscaler for $43.9 billion in all-stock deal, the largest acquisition in cybersecurity history", "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"}
   ]
 }
