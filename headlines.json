@@ -1,11 +1,10 @@
 {
-  "date": "November 24, 2026",
+  "date": "November 25, 2026",
   "headlines": [
-    {"text": "Dow closes above 50,000 for the first time as blue chips hold up, but a Nvidia-led tech rout drags the S&P 500 and Nasdaq lower", "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"},
-    {"text": "Anthropic shares tumble below their $83 IPO price for the first time, just days after the AI giant's blockbuster Nasdaq debut", "url": "https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price"},
-    {"text": "Fed's Waller doubles down on call for a December rate hike, says a half-point move may be needed if inflation stays hot", "url": "https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/"},
+    {"text": "Fed December rate-hike odds jump to near 97% as Waller floats a possible half-point move", "url": "https://finance.biggo.com/news/78ad00f8-6255-4ebc-9b35-179f5a35e276"},
+    {"text": "Dow climbs to a fresh record above 50,000 for a second straight day, but Nasdaq falls 1.45% as the AI chip selloff deepens", "url": "https://www.wam.ae/en/article/17jk879-wall-street-posts-mixed-performances"},
     {"text": "CrowdStrike agrees to buy Zscaler for $43.9 billion in all-stock deal, the largest acquisition in cybersecurity history", "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"},
-    {"text": "HPE shares sink more than 10% despite topping Q4 estimates, adding to doubts about AI-infrastructure spending", "url": "https://www.benzinga.com/markets/equities/26/11/63569914/stock-market-today-dow-sp-500-futures-fall-after-scott-bessent-unveils-fresh-iran-sanctions-hormuz-warnings-hpe-smtc-dell-in-focus"},
-    {"text": "Iran says tankers hit mines in the Strait of Hormuz; oil holds near 3-month lows as traders shrug off the claims even with transits down roughly 40%", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"}
+    {"text": "Anthropic shares stay below their $83 IPO price as AI-bubble jitters linger a week after its blockbuster Nasdaq debut", "url": "https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price"},
+    {"text": "Iran says tankers hit mines in the Strait of Hormuz; oil holds near 3-month lows even as transits stay down roughly 40%", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"}
   ]
 }
