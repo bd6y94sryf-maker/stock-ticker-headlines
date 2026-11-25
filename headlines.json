@@ -1,11 +1,10 @@
 {
   "date": "November 25, 2026",
   "headlines": [
-    {"text": "Dow closes up 164 points to 50,182 after erasing a bigger loss, while S&P 500, Nasdaq slip as AI-credit jitters persist", "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"},
-    {"text": "Hot October core PCE inflation (3.3% y/y) tops forecasts, cementing near-certain Fed rate hike at the Dec. 9 meeting", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
-    {"text": "Nvidia extends its slide as surging debt-protection costs fuel fresh AI-credit fears across the chip sector", "url": "https://www.fxstreet.com/news/the-sell-off-deepens-nvidia-slumps-as-debt-costs-rise-202611251516"},
-    {"text": "Ambarella craters 37%+ on weak Q4 guidance as a memory-chip cost crunch hits demand, joining Dell, Workday lower", "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63618715/ambarella-posts-downbeat-q3-results-joins-workday-dell-and-other-big-stocks-moving-lower-in-wednesdays-pre-market-session"},
-    {"text": "Trump preps new tariffs on 16 trading partners to rebuild 'Liberation Day' duties the Supreme Court struck down", "url": "https://lufkindailynews.com/news_reuters/top_news/trump-set-to-add-new-sweeping-tariffs-undeterred-by-midterms-defeat/article_a0dd6b16-81ed-5ca5-949f-900e68e2a245.html"},
-    {"text": "Trump tells Nvidia's Huang to 'just tell the truth' as traders brace for a December Fed rate hike", "url": "https://www.benzinga.com/markets/equities/26/11/63615832/stock-market-today-dow-jones-sp-500-futures-fall-as-traders-bet-on-december-fed-hike-trump-tells-huang-to-just-tell-the-truth-dell-wday-adsk-in-focus"}
+    {"text": "Dow erases over 1,100-point intraday plunge to close higher, but S&P 500 and Nasdaq slip as Nvidia-led AI/chip selloff persists", "url": "https://www.archynewsy.com/dow-recovers-1100-point-loss-to-close-higher-as-nasdaq-and-sp-500-slip/"},
+    {"text": "Nvidia's governance scandal and fresh tariff threats reignite AI-stock jitters, dragging S&P 500 and Nasdaq lower despite Dow's rebound", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-lower-001212497.html"},
+    {"text": "Trump administration's proposed new Section 301 import tariffs on trading partners reignite trade-war fears, hitting AI and chip stocks", "url": "https://www.abc.net.au/news/2026-11-26/nasdaq-ai-tariffs-rattle-markets/107428016"},
+    {"text": "Hot October PCE inflation keeps traders pricing roughly 87% odds of a quarter-point Fed rate hike at the Dec. 9 FOMC meeting", "url": "https://news.kalshi.com/p/fed-interest-rate-odds-traders-see-87-chance-of-quarter-point-hike-in-december"},
+    {"text": "Ambarella craters 37%+ on weak Q4 guidance amid a memory-chip cost crunch, joining Dell and Workday lower in the earnings-driven slide", "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63618715/ambarella-posts-downbeat-q3-results-joins-workday-dell-and-other-big-stocks-moving-lower-in-wednesdays-pre-market-session"}
   ]
 }
