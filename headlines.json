@@ -1,10 +1,11 @@
 {
   "date": "November 25, 2026",
   "headlines": [
-    {"text": "Fed December rate-hike odds jump to near 97% as Waller floats a possible half-point move", "url": "https://finance.biggo.com/news/78ad00f8-6255-4ebc-9b35-179f5a35e276"},
-    {"text": "Dow climbs to a fresh record above 50,000 for a second straight day, but Nasdaq falls 1.45% as the AI chip selloff deepens", "url": "https://www.wam.ae/en/article/17jk879-wall-street-posts-mixed-performances"},
-    {"text": "CrowdStrike agrees to buy Zscaler for $43.9 billion in all-stock deal, the largest acquisition in cybersecurity history", "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"},
-    {"text": "Anthropic shares stay below their $83 IPO price as AI-bubble jitters linger a week after its blockbuster Nasdaq debut", "url": "https://bnnbloomberg.ca/investing/market-outlook/2026/11/24/tech-stocks-wane-a-day-after-a-huang-rally-as-anthropic-tumbles-below-its-initial-offering-price"},
-    {"text": "Iran says tankers hit mines in the Strait of Hormuz; oil holds near 3-month lows even as transits stay down roughly 40%", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"}
+    {"text": "Fed's Waller floats 'shock therapy' half-point December hike, tripling odds of a jumbo move", "url": "https://finance.biggo.com/news/2a53d043-5722-4c6b-9f18-9873a48e3841"},
+    {"text": "Dow closes back above 50,000, up 0.9%, while Nasdaq falls another 1.45% as the AI chip selloff drags on", "url": "https://gazewire.com/economy/capital-markets/dow-closes-above-50-000-while-s-p-500-and-nasdaq-end-lower"},
+    {"text": "Nvidia faces SEC probe into its disclosures following Jensen Huang's abrupt exit", "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054"},
+    {"text": "CrowdStrike's $43.9 billion all-stock Zscaler bid shifts deal risk onto target shareholders", "url": "https://www.investing.com/news/stock-market-news/crowdstrikes-allstock-bid-for-zscaler-deal-structure-shifts-risk-to-target-holders-93CH-5048924"},
+    {"text": "Anthropic shares slip further below their $83 IPO price as the AI rally fades a day after Huang-fueled bounce", "url": "https://www.chartmill.com/news/ROST/Chartmill-59149-stock-market-today-ai-rally-fades-nvidia-retreats-anthropic-below-ipo-price-2026-11-25"},
+    {"text": "Oil climbs as fresh Strait of Hormuz tanker attacks keep shipping risk elevated", "url": "https://particle.news/story/markets-wobble-as-ai-stocks-fall-and-oil-rises-after-strait-of-hormuz-attacks"}
   ]
 }
