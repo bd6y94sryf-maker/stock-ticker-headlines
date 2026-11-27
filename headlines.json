@@ -1,12 +1,11 @@
 {
   "date": "November 27, 2026",
   "headlines": [
-    {"text": "Traders now price roughly 90% odds the Fed delivers a quarter-point hike at the Dec. 9 FOMC meeting", "url": "https://news.kalshi.com/p/fed-interest-rate-odds-traders-see-87-chance-of-quarter-point-hike-in-december"},
-    {"text": "Fed's preferred inflation gauge cools to 2.7% core PCE in October from 2.8%, modest relief before the December rate decision", "url": "https://www.newsquawk.com/headlines/us-core-pce-price-index-yoy-oct-yy-27-prev-28-low-26-high-31"},
-    {"text": "Oil heads for a weekly gain as Houthi strikes on Saudi Arabia's Ras Tanura and Jazan refineries keep a war-risk premium in crude, with OPEC+ meeting Nov. 29 on 2027 output policy", "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"},
-    {"text": "Nvidia's China-chip scandal widens as general counsel Tim Teter agrees to closed-door House testimony Dec. 2, a day after ousted CEO Jensen Huang's own Dec. 1 session", "url": "https://www.newsquawk.com/headlines/nvidia-nvda-evp-and-general-counsel-tim-teter-agreed-to-closeddoor-testimony-before-the-house-china-and-intelligence-committees-according-to-punchbowl"},
-    {"text": "SEC opens civil probe into whether Nvidia misled investors following Jensen Huang's abrupt Nov. 12 resignation as CEO", "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054"},
-    {"text": "California AG Rob Bonta's office subpoenas Nvidia, escalating from inquiry to formal probe of China-spy-tied disclosures around Huang's ouster", "url": "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"},
-    {"text": "Commerce and Justice Departments confirm criminal investigation into Nvidia partner Megaspeed over suspected chip-smuggling to China", "url": "https://ng.investing.com/news/stock-market-news/nvidia-supplier-megaspeed-under-us-scrutiny-for-china-ties--nyt-93CH-2138604"}
+    {"text": "Nvidia reinstates Jensen Huang as CEO just 11 days after his ouster, adding nearly $1 trillion in market value as shares jump over 30%", "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"},
+    {"text": "SEC, congressional, and California AG probes into Nvidia's disclosures and Huang's China ties continue despite his reinstatement", "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html"},
+    {"text": "Chip stocks lead Wall Street futures higher into Friday's holiday-shortened session, with Nasdaq 100 futures up more than 2%", "url": "https://swingfolio.com/daily/us/2026-11-27/morning"},
+    {"text": "S&P 500 tracks a roughly 4% weekly gain, rebounding from a stretch that briefly pushed the Nasdaq into correction territory", "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"},
+    {"text": "Oil holds a weekly gain as Houthi strikes on Saudi Arabia's refineries keep a war-risk premium alive ahead of OPEC+'s Nov. 29 meeting", "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"},
+    {"text": "Criminal probe into Nvidia supplier Megaspeed over alleged China chip-smuggling remains active amid the broader Huang fallout", "url": "https://ng.investing.com/news/stock-market-news/nvidia-supplier-megaspeed-under-us-scrutiny-for-china-ties--nyt-93CH-2138604"}
   ]
 }
